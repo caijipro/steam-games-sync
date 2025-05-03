@@ -5,8 +5,8 @@ import datetime
 import os
 
 # Gitee信息
-GITEE_OWNER = "Steam-Games-gitee"      # 你的Gitee用户名
-GITEE_REPO = "steam-games-public"      # 你的公开仓库名
+GITEE_OWNER = "Steam-Games-gitee"
+GITEE_REPO = "steam-games-public"
 GITEE_TOKEN = os.environ.get("GITEE_TOKEN")
 GITEE_FILE = "games.json"
 GITEE_API = f"https://gitee.com/api/v5/repos/{GITEE_OWNER}/{GITEE_REPO}/contents/{GITEE_FILE}"
@@ -36,15 +36,17 @@ def get_gitee_file_sha():
 def upload_to_gitee(games):
     content = base64.b64encode(json.dumps(games, ensure_ascii=False, indent=2).encode("utf-8")).decode()
     sha = get_gitee_file_sha()
+    print(f"获取到的sha: {sha}")  # 调试用
     data = {
         "access_token": GITEE_TOKEN,
         "content": content,
         "message": f"update games.json {datetime.datetime.now()}",
     }
-    # 只有sha存在且不为空时才加sha字段
-    if sha:
+    # 只有sha存在且不为None和不为空字符串时才加sha字段
+    if sha is not None and sha != "":
         data["sha"] = sha
     resp = requests.put(GITEE_API, json=data)
+    print("Gitee返回：", resp.text)
     if resp.status_code in (200, 201):
         print("上传到Gitee成功！")
     else:
