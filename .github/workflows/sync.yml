@@ -1,4 +1,4 @@
-name: Sync Steam Games to Gitee
+name: Sync Steam Games to GitHub
 
 on:
   schedule:
@@ -20,7 +20,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run sync script
-        env:
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-        run: python sync_to_gitee.py
+      - name: Generate games.json
+        run: python sync_to_github.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add games.json
+          git commit -m "auto: update games.json" || echo "No changes to commit"
+          git push
