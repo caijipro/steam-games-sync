@@ -4,9 +4,9 @@ import json
 import datetime
 import os
 
-# Gitee信息（只改这两项为你的公开仓库信息）
-GITEE_OWNER = "Steam-Games-gitee"  # 你的Gitee用户名
-GITEE_REPO = "steam-games-public"  # 你的公开仓库名
+# 
+GITEE_OWNER = "Steam-Games-gitee"  # 
+GITEE_REPO = "steam-games-public"  # 
 GITEE_TOKEN = os.environ.get("GITEE_TOKEN")
 GITEE_FILE = "games.json"
 GITEE_API = f"https://gitee.com/api/v5/repos/{GITEE_OWNER}/{GITEE_REPO}/contents/{GITEE_FILE}"
