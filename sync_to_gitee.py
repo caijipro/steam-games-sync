@@ -26,8 +26,11 @@ def fetch_steam_games():
 def get_gitee_file_sha():
     url = f"{GITEE_API}?access_token={GITEE_TOKEN}"
     resp = requests.get(url)
-    if resp.status_code == 200 and "sha" in resp.json():
-        return resp.json()["sha"]
+    if resp.status_code == 200:
+        data = resp.json()
+        # 只有当'sha'字段存在且不为空才返回
+        if "sha" in data and data["sha"]:
+            return data["sha"]
     return None
 
 def upload_to_gitee(games):
@@ -38,7 +41,7 @@ def upload_to_gitee(games):
         "content": content,
         "message": f"update games.json {datetime.datetime.now()}",
     }
-    # 只有sha存在时才加sha字段（关键！）
+    # 只有sha存在且不为空时才加sha字段
     if sha:
         data["sha"] = sha
     resp = requests.put(GITEE_API, json=data)
