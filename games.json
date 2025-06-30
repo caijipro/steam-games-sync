@@ -316957,7 +316957,7 @@
   },
   {
     "appid": 1238990,
-    "name": "FracturedCore"
+    "name": "Fractured Core"
   },
   {
     "appid": 1239000,
@@ -598264,6 +598264,10 @@
     "name": "Silver Blue Soundtrack"
   },
   {
+    "appid": 2211070,
+    "name": "Wars Across The World: Corsica 1764"
+  },
+  {
     "appid": 2211090,
     "name": "Villain's Legacy"
   },
@@ -617197,7 +617201,7 @@
   },
   {
     "appid": 2277700,
-    "name": "STAND-ALONE Demo"
+    "name": "OVIS LOOP Demo"
   },
   {
     "appid": 2277710,
@@ -628954,6 +628958,10 @@
   {
     "appid": 2317280,
     "name": "My Familiar Demo"
+  },
+  {
+    "appid": 2317290,
+    "name": "EvoCreo 2"
   },
   {
     "appid": 2317300,
@@ -872260,6 +872268,10 @@
     "name": "Dreadway"
   },
   {
+    "appid": 3215830,
+    "name": "Coven: All Powerful Demo"
+  },
+  {
     "appid": 3215840,
     "name": "Player vs. Dealer Blackjack"
   },
@@ -930280,6 +930292,10 @@
     "name": "Cash Cow DX Soundtrack"
   },
   {
+    "appid": 3439410,
+    "name": "HellHeart Breaker"
+  },
+  {
     "appid": 3439430,
     "name": "Gridle"
   },
@@ -950800,6 +950816,10 @@
     "name": "Royal Quest Online - Winner's Arsenal"
   },
   {
+    "appid": 3519810,
+    "name": "JungleBoys"
+  },
+  {
     "appid": 3519820,
     "name": "Royal Quest Online - Adventure Seeker"
   },
@@ -960518,6 +960538,10 @@
   {
     "appid": 3558550,
     "name": "Wandering Within"
+  },
+  {
+    "appid": 3558560,
+    "name": "Valhalla Awaits Demo"
   },
   {
     "appid": 3558570,
@@ -973801,7 +973825,7 @@
   },
   {
     "appid": 3616770,
-    "name": "Eternal Star in Love"
+    "name": "Eternal Stars in Love"
   },
   {
     "appid": 3616780,
@@ -975180,6 +975204,26 @@
     "name": "Booklet's Big Story"
   },
   {
+    "appid": 3622520,
+    "name": "Monster Hunter Wilds - Hunter Help: Prep Pack"
+  },
+  {
+    "appid": 3622530,
+    "name": "Monster Hunter Wilds - Hunter Help: Support Pack"
+  },
+  {
+    "appid": 3622540,
+    "name": "Monster Hunter Wilds - Monster Hunter Puzzles: Bonus Pack"
+  },
+  {
+    "appid": 3622550,
+    "name": "Monster Hunter Wilds - Hunter Help: Relief Pack"
+  },
+  {
+    "appid": 3622560,
+    "name": "Monster Hunter Wilds - Hunter Help: Backup Pack"
+  },
+  {
     "appid": 3622570,
     "name": "Sorter"
   },
@@ -975246,6 +975290,10 @@
   {
     "appid": 3622840,
     "name": "Pepper Odyssey"
+  },
+  {
+    "appid": 3622860,
+    "name": "FantômeRapport"
   },
   {
     "appid": 3622870,
@@ -984861,15 +984909,15 @@
   },
   {
     "appid": 3667300,
-    "name": "汉武大帝传史诗级特技书 · 吸血攻击60%（非必购项）"
+    "name": "汉武大帝传-史诗级特技书 · 吸血攻击60%（非必购项）"
   },
   {
     "appid": 3667310,
-    "name": "汉武大帝传史诗级特技书 · 穿透6人（非必购项）"
+    "name": "汉武大帝传-史诗级特技书 · 穿透6人（非必购项）"
   },
   {
     "appid": 3667320,
-    "name": "汉武大帝传史诗级特技书 · 一夫当关30%（非必购项）"
+    "name": "汉武大帝传-史诗级特技书 · 一夫当关30%（非必购项）"
   },
   {
     "appid": 3667330,
@@ -997912,6 +997960,10 @@
     "name": "Chick Clicker"
   },
   {
+    "appid": 3725550,
+    "name": "The Ring Of Succubus Queen"
+  },
+  {
     "appid": 3725600,
     "name": "Schematica"
   },
@@ -997930,6 +997982,10 @@
   {
     "appid": 3725690,
     "name": "Norah's Song Demo"
+  },
+  {
+    "appid": 3725700,
+    "name": "The Tūn-Gāst of Oakshaw"
   },
   {
     "appid": 3725710,
@@ -1001048,6 +1001104,10 @@
     "name": "Game Store Chronicle Playtest"
   },
   {
+    "appid": 3740230,
+    "name": "Prison 69 - 24 Hours In Jail Demo"
+  },
+  {
     "appid": 3740240,
     "name": "Static Memory"
   },
@@ -1003648,6 +1003708,10 @@
     "name": "Just Me and My Cat"
   },
   {
+    "appid": 3752860,
+    "name": "PhaigeX: Hyperspace Survivors Soundtrack"
+  },
+  {
     "appid": 3752880,
     "name": "Shipwrecked: A Quick Automation"
   },
@@ -1005496,6 +1005560,10 @@
     "name": "Wisp Gunner"
   },
   {
+    "appid": 3761510,
+    "name": "Another Blue"
+  },
+  {
     "appid": 3761540,
     "name": "Relaxing Farm: Merge Tales Demo"
   },
@@ -1006850,6 +1006918,10 @@
   {
     "appid": 3768070,
     "name": "Hunt: Showdown 1896 - Port Sulphur Band - The Fool"
+  },
+  {
+    "appid": 3768080,
+    "name": "小湿的夏日战斗"
   },
   {
     "appid": 3768090,
@@ -1009568,6 +1009640,10 @@
     "name": "Rent a Girl"
   },
   {
+    "appid": 3781470,
+    "name": "Astral Sanctum Playtest"
+  },
+  {
     "appid": 3781500,
     "name": "La Galerie des Toilettes"
   },
@@ -1010094,6 +1010170,10 @@
   {
     "appid": 3784420,
     "name": "Lead & Blood"
+  },
+  {
+    "appid": 3784440,
+    "name": "The Last Among The Dead"
   },
   {
     "appid": 3784450,
@@ -1011068,6 +1011148,14 @@
     "name": "100 Lisbon Cats"
   },
   {
+    "appid": 3789620,
+    "name": "100 Amsterdam Cats"
+  },
+  {
+    "appid": 3789630,
+    "name": "100 Hong Kong Cats"
+  },
+  {
     "appid": 3789640,
     "name": "100 Demon Cats"
   },
@@ -1011082,6 +1011170,10 @@
   {
     "appid": 3789670,
     "name": "100 Witch Cats"
+  },
+  {
+    "appid": 3789680,
+    "name": "100 Camp Cats"
   },
   {
     "appid": 3789720,
@@ -1011410,6 +1011502,10 @@
   {
     "appid": 3791430,
     "name": "Sapo Xulé e o Casamento Indesejado Soundtrack"
+  },
+  {
+    "appid": 3791450,
+    "name": "EvoCreo"
   },
   {
     "appid": 3791470,
@@ -1012576,6 +1012672,10 @@
     "name": "Anomalous Coffee Machine 2"
   },
   {
+    "appid": 3797390,
+    "name": "IlhaZ"
+  },
+  {
     "appid": 3797460,
     "name": "frutiger aero"
   },
@@ -1012900,6 +1013000,10 @@
     "name": "Re:Fresh Soundtrack"
   },
   {
+    "appid": 3799510,
+    "name": "The Starlit Oasis"
+  },
+  {
     "appid": 3799540,
     "name": "Silver Malfeasant Demo"
   },
@@ -1012970,6 +1013074,10 @@
   {
     "appid": 3799900,
     "name": "Peter's Apostles"
+  },
+  {
+    "appid": 3799920,
+    "name": "AshBall"
   },
   {
     "appid": 3799960,
@@ -1013114,6 +1013222,10 @@
   {
     "appid": 3800750,
     "name": "Trainz Plus DLC - BNSF C44-9W 700-799"
+  },
+  {
+    "appid": 3800800,
+    "name": "The First Scene"
   },
   {
     "appid": 3800810,
@@ -1014034,6 +1014146,10 @@
   {
     "appid": 3807210,
     "name": "Squeakross: Home Squeak Home Original Soundtrack"
+  },
+  {
+    "appid": 3807220,
+    "name": "FLY2K"
   },
   {
     "appid": 3807250,
@@ -1015552,6 +1015668,10 @@
     "name": "LivingBattle Chair"
   },
   {
+    "appid": 3818190,
+    "name": "Millispeed"
+  },
+  {
     "appid": 3818210,
     "name": "LivingForest Broken Bandage M4A1"
   },
@@ -1015616,6 +1015736,10 @@
     "name": "Cat Nap Demo"
   },
   {
+    "appid": 3818830,
+    "name": "Housekeeper: Anomaly Demo"
+  },
+  {
     "appid": 3818850,
     "name": "TowerLine"
   },
@@ -1015650,6 +1015774,10 @@
   {
     "appid": 3819110,
     "name": "Hentai Furry Foxy"
+  },
+  {
+    "appid": 3819120,
+    "name": "親切()な駅"
   },
   {
     "appid": 3819210,
@@ -1016060,6 +1016188,10 @@
     "name": "Strange island"
   },
   {
+    "appid": 3822250,
+    "name": "MINI EXPEDITION"
+  },
+  {
     "appid": 3822280,
     "name": "Gyre Demo"
   },
@@ -1016272,6 +1016404,10 @@
     "name": "Hentai Casual Swap 3 – Exclusive Artbook"
   },
   {
+    "appid": 3823650,
+    "name": "LUCKROT"
+  },
+  {
     "appid": 3823660,
     "name": "Kaptan Ege"
   },
@@ -1016424,6 +1016560,10 @@
     "name": "Wumbrik"
   },
   {
+    "appid": 3825470,
+    "name": "Ta-Miu"
+  },
+  {
     "appid": 3825500,
     "name": "HARD VOID Demo"
   },
@@ -1016438,6 +1016578,10 @@
   {
     "appid": 3825580,
     "name": "PUNCHBALL Demo"
+  },
+  {
+    "appid": 3825590,
+    "name": "Pose Crush: Waifu Edition"
   },
   {
     "appid": 3825620,
@@ -1016656,8 +1016800,16 @@
     "name": "Proportions - Support Edition"
   },
   {
+    "appid": 3828540,
+    "name": "Bronzebeard's Tavern - Seaworld Pack"
+  },
+  {
     "appid": 3828570,
     "name": "Invertinator"
+  },
+  {
+    "appid": 3828600,
+    "name": "Elnea Kingdom DLC - Seaside Wedding Set"
   },
   {
     "appid": 3828710,
@@ -1016836,6 +1016988,10 @@
     "name": "Fantasy Legend. The Frozen Century"
   },
   {
+    "appid": 3830860,
+    "name": "Legend of the Moon: Those Who Crossed"
+  },
+  {
     "appid": 3830870,
     "name": "Parcel Peaks"
   },
@@ -1016854,6 +1017010,18 @@
   {
     "appid": 3830980,
     "name": "Horny Farm"
+  },
+  {
+    "appid": 3830990,
+    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Platinum"
+  },
+  {
+    "appid": 3831000,
+    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Gold"
+  },
+  {
+    "appid": 3831010,
+    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Silver"
   },
   {
     "appid": 3831030,
@@ -1016920,12 +1017088,20 @@
     "name": "FlushFall"
   },
   {
+    "appid": 3832300,
+    "name": "Veil of Torment"
+  },
+  {
     "appid": 3832320,
     "name": "Polygun Demo"
   },
   {
     "appid": 3832330,
     "name": "Make it! Choco Banana"
+  },
+  {
+    "appid": 3832410,
+    "name": "ApplePop"
   },
   {
     "appid": 3832440,
@@ -1016950,6 +1017126,10 @@
   {
     "appid": 3832790,
     "name": "Dominated by: Yandere Goth Cop"
+  },
+  {
+    "appid": 3832950,
+    "name": "It's Weird Here"
   },
   {
     "appid": 3832990,
@@ -1016996,6 +1017176,10 @@
     "name": "HamsterCraft Playtest"
   },
   {
+    "appid": 3834170,
+    "name": "Ocean Escape"
+  },
+  {
     "appid": 3834190,
     "name": "Jungle Shadow"
   },
@@ -1017040,6 +1017224,10 @@
     "name": "Hentai World Relax"
   },
   {
+    "appid": 3834720,
+    "name": "孤島国士 - Kokushi : Lost Island"
+  },
+  {
     "appid": 3834730,
     "name": "Blaster Bunny Chronicles"
   },
@@ -1017054,6 +1017242,10 @@
   {
     "appid": 3834890,
     "name": "punk girl"
+  },
+  {
+    "appid": 3835010,
+    "name": "Eternal Hunt"
   },
   {
     "appid": 3835180,
@@ -1017118,6 +1017310,10 @@
   {
     "appid": 3836520,
     "name": "Digging Dogs"
+  },
+  {
+    "appid": 3836560,
+    "name": "Boogey Hunters Soundtrack"
   },
   {
     "appid": 3836570,
@@ -1017224,6 +1017420,10 @@
     "name": "Teeny Tidy"
   },
   {
+    "appid": 3839190,
+    "name": "DREIFRAME"
+  },
+  {
     "appid": 3839230,
     "name": "Golf Of America"
   },
@@ -1017236,12 +1017436,20 @@
     "name": "Crystal of Atlan"
   },
   {
+    "appid": 3839860,
+    "name": "NIGHTIN CAGE (BETA)"
+  },
+  {
     "appid": 3839930,
     "name": "三国群英录"
   },
   {
     "appid": 3840030,
     "name": "Exitless Playtest"
+  },
+  {
+    "appid": 3840120,
+    "name": "Star Legacy"
   },
   {
     "appid": 3840320,
@@ -1017314,6 +1017522,10 @@
   {
     "appid": 3843010,
     "name": "Skullhunter A Worm's Tale Demo"
+  },
+  {
+    "appid": 3843780,
+    "name": "Unserious Sandbox Demo"
   },
   {
     "appid": 3846870,
