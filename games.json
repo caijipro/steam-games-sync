@@ -367056,10 +367056,6 @@
     "name": "SpellForce 3: Fallen God Soundtrack"
   },
   {
-    "appid": 1415410,
-    "name": "Farm Manager 2021: Prologue"
-  },
-  {
     "appid": 1415420,
     "name": "Lost Castle: The Old Ones Awaken"
   },
@@ -376829,7 +376825,7 @@
   },
   {
     "appid": 1446900,
-    "name": "Fallen Tear Ascension"
+    "name": "Fallen Tear: The Ascension"
   },
   {
     "appid": 1446910,
@@ -504972,6 +504968,10 @@
     "name": "United Assault - World War 2"
   },
   {
+    "appid": 1872910,
+    "name": "Out of Action Playtest"
+  },
+  {
     "appid": 1872920,
     "name": "Pillars of Sorrow"
   },
@@ -588260,10 +588260,6 @@
     "name": "EthrA"
   },
   {
-    "appid": 2177530,
-    "name": "The Experiment"
-  },
-  {
     "appid": 2177540,
     "name": "Jewel Match Twilight"
   },
@@ -639036,6 +639032,10 @@
     "name": "Fantasy Grounds - The Book of Fiends"
   },
   {
+    "appid": 2354240,
+    "name": "Tiles of War"
+  },
+  {
     "appid": 2354250,
     "name": "Ayla's Dollhouse"
   },
@@ -642086,10 +642086,6 @@
   {
     "appid": 2365540,
     "name": "Endless Pinball"
-  },
-  {
-    "appid": 2365550,
-    "name": "Gagugadge"
   },
   {
     "appid": 2365560,
@@ -650786,6 +650782,10 @@
   {
     "appid": 2393940,
     "name": "无限之书：侠之章 Story Of Infinity: Xia Demo"
+  },
+  {
+    "appid": 2393950,
+    "name": "Light Odyssey Playtest"
   },
   {
     "appid": 2393980,
@@ -697648,6 +697648,10 @@
     "name": "Only Up!"
   },
   {
+    "appid": 2562250,
+    "name": "Slime Slayer Playtest"
+  },
+  {
     "appid": 2562280,
     "name": "The Bullet Hopper"
   },
@@ -699018,6 +699022,14 @@
   {
     "appid": 2567100,
     "name": "PERSEVERA Demo"
+  },
+  {
+    "appid": 2567130,
+    "name": "Flower in Us Original Soundtrack"
+  },
+  {
+    "appid": 2567150,
+    "name": "Flower in Us Soundtrack - Sheet Music"
   },
   {
     "appid": 2567170,
@@ -718292,10 +718304,6 @@
     "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Companion: Divine Anthology"
   },
   {
-    "appid": 2638420,
-    "name": "Slime Slayer Prologue"
-  },
-  {
     "appid": 2638430,
     "name": "ToiTony"
   },
@@ -731532,6 +731540,10 @@
     "name": "Hellsting"
   },
   {
+    "appid": 2687400,
+    "name": "GODBREAKERS"
+  },
+  {
     "appid": 2687410,
     "name": "ライブピクト"
   },
@@ -734257,7 +734269,7 @@
   },
   {
     "appid": 2697500,
-    "name": "RED OPS - HD CG Pack"
+    "name": "RED OPS - CG Pack"
   },
   {
     "appid": 2697510,
@@ -776465,7 +776477,7 @@
   },
   {
     "appid": 2856230,
-    "name": "Elementia TD"
+    "name": "Elemyth"
   },
   {
     "appid": 2856250,
@@ -795320,6 +795332,10 @@
     "name": "Topac Battle - Supporter Pack"
   },
   {
+    "appid": 2929010,
+    "name": "Nippon Island: The Flight"
+  },
+  {
     "appid": 2929020,
     "name": "A Twisted Place"
   },
@@ -804838,10 +804854,6 @@
   {
     "appid": 2964210,
     "name": "Hamlet in a Pond"
-  },
-  {
-    "appid": 2964220,
-    "name": "Whispering Age"
   },
   {
     "appid": 2964230,
@@ -816206,10 +816218,6 @@
   {
     "appid": 3005850,
     "name": "Click on bells together"
-  },
-  {
-    "appid": 3005860,
-    "name": "Orbo's Exodus"
   },
   {
     "appid": 3005880,
@@ -827664,6 +827672,10 @@
     "name": "Tidy Backpack"
   },
   {
+    "appid": 3047230,
+    "name": "The untamed Realms"
+  },
+  {
     "appid": 3047240,
     "name": "Jotunnslayer: Hordes of Hel Demo"
   },
@@ -831006,6 +831018,10 @@
   {
     "appid": 3060600,
     "name": "Growth Fish"
+  },
+  {
+    "appid": 3060610,
+    "name": "Farlight 84 Playtest"
   },
   {
     "appid": 3060620,
@@ -850896,10 +850912,6 @@
     "name": "Typing Fury: Around the World"
   },
   {
-    "appid": 3136700,
-    "name": "Orbo's Exodus Demo"
-  },
-  {
     "appid": 3136740,
     "name": "Alchemy"
   },
@@ -859928,6 +859940,10 @@
     "name": "Lord of the Click 4"
   },
   {
+    "appid": 3171540,
+    "name": "Packmates"
+  },
+  {
     "appid": 3171550,
     "name": "三国志汉末霸业-出类拔萃"
   },
@@ -868621,7 +868637,7 @@
   },
   {
     "appid": 3203230,
-    "name": "Deadline: Rogue Rally"
+    "name": "Initial Delivery"
   },
   {
     "appid": 3203240,
@@ -873737,7 +873753,7 @@
   },
   {
     "appid": 3222050,
-    "name": "Deadline: Rogue Rally Demo"
+    "name": "Initial Delivery Demo"
   },
   {
     "appid": 3222060,
@@ -879150,6 +879166,10 @@
   {
     "appid": 3242070,
     "name": "7 Nights Keeper Demo"
+  },
+  {
+    "appid": 3242090,
+    "name": "Artifact Seekers 1"
   },
   {
     "appid": 3242100,
@@ -895016,6 +895036,10 @@
     "name": "Gamba Simulator"
   },
   {
+    "appid": 3299820,
+    "name": "Gretel and Hansel"
+  },
+  {
     "appid": 3299850,
     "name": "The Last Phoenix"
   },
@@ -900800,6 +900824,10 @@
     "name": "Hidden Bloodhunt"
   },
   {
+    "appid": 3323140,
+    "name": "Catto Chateau"
+  },
+  {
     "appid": 3323150,
     "name": "Three Six Nine"
   },
@@ -905412,6 +905440,10 @@
     "name": "Virtual Girlfriend Lia - Overalls"
   },
   {
+    "appid": 3340970,
+    "name": "Desk. Target Quacking"
+  },
+  {
     "appid": 3340980,
     "name": "DontFallDown"
   },
@@ -908330,6 +908362,10 @@
   {
     "appid": 3352410,
     "name": "PiMon Demo"
+  },
+  {
+    "appid": 3352420,
+    "name": "And Then There Was No Light"
   },
   {
     "appid": 3352430,
@@ -920140,6 +920176,10 @@
     "name": "Q Dungeon 地穴抓娃娃"
   },
   {
+    "appid": 3397280,
+    "name": "Bellatores Playtest"
+  },
+  {
     "appid": 3397320,
     "name": "Mirai's Midnight Stream Demo"
   },
@@ -921778,6 +921818,10 @@
   {
     "appid": 3403880,
     "name": "KLAWS"
+  },
+  {
+    "appid": 3403890,
+    "name": "Good For Nothing"
   },
   {
     "appid": 3403900,
@@ -924022,6 +924066,10 @@
   {
     "appid": 3412850,
     "name": "Starling"
+  },
+  {
+    "appid": 3412860,
+    "name": "Destiny Code"
   },
   {
     "appid": 3412870,
@@ -927018,6 +927066,10 @@
   {
     "appid": 3424830,
     "name": "Backrooms Multi-Verses"
+  },
+  {
+    "appid": 3424860,
+    "name": "Tailwind Tropics"
   },
   {
     "appid": 3424870,
@@ -930209,7 +930261,7 @@
   },
   {
     "appid": 3437350,
-    "name": "Woodlins"
+    "name": "Little Aviary"
   },
   {
     "appid": 3437370,
@@ -932330,6 +932382,10 @@
   {
     "appid": 3445100,
     "name": "Cat Slaps"
+  },
+  {
+    "appid": 3445110,
+    "name": "Ice Cream Parlour Simulator"
   },
   {
     "appid": 3445120,
@@ -935712,6 +935768,10 @@
     "name": "Train Sim World® 5: Thomas & Friends™ 80th Anniversary Expansion"
   },
   {
+    "appid": 3457370,
+    "name": "Train Sim World® 5: West Midlands Railway & CrossCountry BR Class 170 DMU Add-On"
+  },
+  {
     "appid": 3457380,
     "name": "Waifu Shop"
   },
@@ -937564,6 +937624,10 @@
     "name": "鱿乐园 Demo"
   },
   {
+    "appid": 3464120,
+    "name": "Wittle Misfits"
+  },
+  {
     "appid": 3464130,
     "name": "The Legend of Heroes: Kuro no Kiseki Season Pass"
   },
@@ -939153,7 +939217,7 @@
   },
   {
     "appid": 3470370,
-    "name": "色系战记 Rainbow Legend"
+    "name": "色系战记 Rainbow Legends"
   },
   {
     "appid": 3470380,
@@ -940017,7 +940081,7 @@
   },
   {
     "appid": 3473840,
-    "name": "Sister in the Dark"
+    "name": "The Light and the Shadow"
   },
   {
     "appid": 3473850,
@@ -942552,6 +942616,10 @@
     "name": "ABC Book 3D: Learn English"
   },
   {
+    "appid": 3484210,
+    "name": "WALKER"
+  },
+  {
     "appid": 3484260,
     "name": "DeadCore Redux"
   },
@@ -943782,6 +943850,10 @@
   {
     "appid": 3489220,
     "name": "Kkokko Industry"
+  },
+  {
+    "appid": 3489240,
+    "name": "Asterix & Obelix - Mission Babylon"
   },
   {
     "appid": 3489270,
@@ -960424,6 +960496,10 @@
     "name": "Legends of Old"
   },
   {
+    "appid": 3554690,
+    "name": "Spaceman Memories Playtest"
+  },
+  {
     "appid": 3554700,
     "name": "Dice Trek Demo"
   },
@@ -963240,6 +963316,10 @@
     "name": "One Hunread-Year Kingdom"
   },
   {
+    "appid": 3566620,
+    "name": "Crystal in Carnations"
+  },
+  {
     "appid": 3566630,
     "name": "The Third Tourist"
   },
@@ -964790,6 +964870,10 @@
   {
     "appid": 3573730,
     "name": "桃源村日志 Demo"
+  },
+  {
+    "appid": 3573740,
+    "name": "Backrooms: The M.E.G."
   },
   {
     "appid": 3573750,
@@ -969368,6 +969452,10 @@
     "name": "Alchemy Duel"
   },
   {
+    "appid": 3592590,
+    "name": "Fossilpunk Playtest"
+  },
+  {
     "appid": 3592600,
     "name": "Two Point Museum: Fantasy Finds"
   },
@@ -969562,6 +969650,10 @@
   {
     "appid": 3593400,
     "name": "Run Chicken Run"
+  },
+  {
+    "appid": 3593410,
+    "name": "Time Gamers: 12000 Years in One Square Mile"
   },
   {
     "appid": 3593420,
@@ -970016,8 +970108,16 @@
     "name": "Pioneer Racing"
   },
   {
+    "appid": 3595230,
+    "name": "Call of Duty®: Modern Warfare® II"
+  },
+  {
     "appid": 3595260,
     "name": "Dungeon Defenders - Returnia"
+  },
+  {
+    "appid": 3595270,
+    "name": "Call of Duty®: Modern Warfare® III"
   },
   {
     "appid": 3595280,
@@ -971748,6 +971848,18 @@
     "name": "Deep Cuts OST - Deep Cuts"
   },
   {
+    "appid": 3602840,
+    "name": "Call of Duty®: Modern Warfare® II - Campaign"
+  },
+  {
+    "appid": 3602850,
+    "name": "Call of Duty®: Modern Warfare® II - Multiplayer"
+  },
+  {
+    "appid": 3602860,
+    "name": "Call of Duty®: Modern Warfare® II - Co-op"
+  },
+  {
     "appid": 3602870,
     "name": "Slipstream"
   },
@@ -971774,6 +971886,10 @@
   {
     "appid": 3602940,
     "name": "Shadowfront"
+  },
+  {
+    "appid": 3602970,
+    "name": "Call of Duty®: Modern Warfare® II - DMZ Beta"
   },
   {
     "appid": 3602980,
@@ -971882,6 +971998,18 @@
   {
     "appid": 3603430,
     "name": "Kid Kharagma"
+  },
+  {
+    "appid": 3603450,
+    "name": "Call of Duty®: Modern Warfare® III - Campaign"
+  },
+  {
+    "appid": 3603460,
+    "name": "Call of Duty®: Modern Warfare® III - Multiplayer"
+  },
+  {
+    "appid": 3603470,
+    "name": "Call of Duty®: Modern Warfare® III - Zombies"
   },
   {
     "appid": 3603490,
@@ -980900,8 +981028,80 @@
     "name": "The Incident at Galley House"
   },
   {
+    "appid": 3641040,
+    "name": "Call of Duty®: Modern Warfare® II - Ghost Legacy Pack"
+  },
+  {
+    "appid": 3641050,
+    "name": "Call of Duty®: Modern Warfare® II - MW II - Vault Edition Pack"
+  },
+  {
+    "appid": 3641060,
+    "name": "Call of Duty®: Modern Warfare® II  - MWII - Vault Edition Pack 2"
+  },
+  {
+    "appid": 3641070,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Standard Edition"
+  },
+  {
+    "appid": 3641080,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty Endowment (C.O.D.E.) - Perseverance Pack"
+  },
+  {
+    "appid": 3641090,
+    "name": "Call of Duty Endowment (C.O.D.E.) - Protector Pack"
+  },
+  {
+    "appid": 3641120,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Final Judgement Bundle"
+  },
+  {
+    "appid": 3641130,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Khaled Al-Asad Operator Bundle"
+  },
+  {
+    "appid": 3641140,
+    "name": "Call of Duty®: Modern Warfare® II - Desert Rogue: Pro-pack"
+  },
+  {
+    "appid": 3641150,
+    "name": "Call of Duty®: Modern Warfare® II - Dune Stalker: Starter-pack"
+  },
+  {
+    "appid": 3641160,
+    "name": "Call of Duty®: Modern Warfare® II - Urban Veteran: Pro-pack"
+  },
+  {
+    "appid": 3641170,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - BlackCell (Season 03)"
+  },
+  {
     "appid": 3641180,
     "name": "Nova Jumper"
+  },
+  {
+    "appid": 3641190,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - BCS3 LC"
+  },
+  {
+    "appid": 3641200,
+    "name": "Call of Duty®: Modern Warfare® II - Itadakimasu: Starter-pack"
+  },
+  {
+    "appid": 3641210,
+    "name": "Call of Duty®: Modern Warfare® II - Manticore: Pro-pack"
+  },
+  {
+    "appid": 3641220,
+    "name": "Call of Duty Endowment (C.O.D.E.) - Valkyrie-pack"
+  },
+  {
+    "appid": 3641230,
+    "name": "Call of Duty®: Modern Warfare® II - Demon Deer: Pro-pack"
+  },
+  {
+    "appid": 3641240,
+    "name": "Call of Duty®: Modern Warfare® II - Griffin: Pro-pack"
   },
   {
     "appid": 3641250,
@@ -980916,12 +981116,84 @@
     "name": "Kingdom Wars Playtest"
   },
   {
+    "appid": 3641310,
+    "name": "Call of Duty®: Modern Warfare® II - Graffiti Tactical: Pro-pack"
+  },
+  {
+    "appid": 3641320,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - BlackCell (Season 04)"
+  },
+  {
+    "appid": 3641330,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - BlackCell (Season 05)"
+  },
+  {
+    "appid": 3641340,
+    "name": "Call of Duty®: Modern Warfare® II - Gunslinger Ghost: Pro-pack"
+  },
+  {
+    "appid": 3641350,
+    "name": "Call of Duty®: Modern Warfare® II - Cosmic Traveler: Pro-pack"
+  },
+  {
+    "appid": 3641360,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - BlackCell (Season 06)"
+  },
+  {
     "appid": 3641370,
     "name": "Color Breaker"
   },
   {
+    "appid": 3641380,
+    "name": "Call of Duty®: Modern Warfare® II - Pumpkin Patch: Pro Pack"
+  },
+  {
+    "appid": 3641390,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Launch Pack"
+  },
+  {
+    "appid": 3641400,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Atlanta FaZe Pack 2023"
+  },
+  {
     "appid": 3641420,
     "name": "Magecraft: Spellbuilding"
+  },
+  {
+    "appid": 3641430,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Boston Breach Pack 2023"
+  },
+  {
+    "appid": 3641440,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Florida Mutineers Pack 2023"
+  },
+  {
+    "appid": 3641450,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - London Royal Ravens Pack 2023"
+  },
+  {
+    "appid": 3641460,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Los Angeles Guerrillas Pack 2023"
+  },
+  {
+    "appid": 3641470,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Los Angeles Thieves Pack 2023"
+  },
+  {
+    "appid": 3641480,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Minnesota ROKKR Pack 2023"
+  },
+  {
+    "appid": 3641490,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - New York Subliners Pack 2023"
+  },
+  {
+    "appid": 3641500,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - OpTic Texas Pack 2023"
+  },
+  {
+    "appid": 3641510,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Vegas Legion Pack 2023"
   },
   {
     "appid": 3641530,
@@ -980932,8 +981204,64 @@
     "name": "Design and Conjure Demo"
   },
   {
+    "appid": 3641550,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Seattle Surge Pack 2023"
+  },
+  {
+    "appid": 3641560,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Toronto Ultra Pack 2023"
+  },
+  {
+    "appid": 3641580,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Atlanta FaZe Team Pack 2023"
+  },
+  {
+    "appid": 3641590,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Boston Breach Team Pack 2023"
+  },
+  {
+    "appid": 3641600,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Florida Mutineers Team Pack 2023"
+  },
+  {
+    "appid": 3641610,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - London Royal Ravens Team Pack 2023"
+  },
+  {
+    "appid": 3641620,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Los Angeles Guerrillas Team Pack 2023"
+  },
+  {
+    "appid": 3641630,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Los Angeles Thieves Team Pack 2023"
+  },
+  {
+    "appid": 3641640,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Minnesota ROKKR Team Pack 2023"
+  },
+  {
     "appid": 3641650,
     "name": "Ham(mer) It Up"
+  },
+  {
+    "appid": 3641660,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - New York Subliners Team Pack 2023"
+  },
+  {
+    "appid": 3641670,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - OpTic Texas Team Pack 2023"
+  },
+  {
+    "appid": 3641680,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Vegas Legion Team Pack 2023"
+  },
+  {
+    "appid": 3641690,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Seattle Surge Team Pack 2023"
+  },
+  {
+    "appid": 3641700,
+    "name": "Call of Duty®: Modern Warfare® II - MWII - Call of Duty League™ - Toronto Ultra Team Pack 2023"
   },
   {
     "appid": 3641710,
@@ -984132,6 +984460,34 @@
     "name": "Monster Magnet"
   },
   {
+    "appid": 3654920,
+    "name": "Call of Duty®: Modern Warfare® III - Vault Pack 5"
+  },
+  {
+    "appid": 3654930,
+    "name": "Call of Duty®: Modern Warfare® III - Vault Pack 4"
+  },
+  {
+    "appid": 3654940,
+    "name": "Call of Duty®: Modern Warfare® III - Vault Pack 2"
+  },
+  {
+    "appid": 3654950,
+    "name": "Call of Duty®: Modern Warfare® III - Vault Beta Pack 1"
+  },
+  {
+    "appid": 3654960,
+    "name": "Call of Duty®: Modern Warfare® III - Standard Pack 2"
+  },
+  {
+    "appid": 3654970,
+    "name": "Call of Duty®: Modern Warfare® III - Vault Pack 1"
+  },
+  {
+    "appid": 3654980,
+    "name": "Call of Duty®: Modern Warfare® III - Standard Pack 1"
+  },
+  {
     "appid": 3654990,
     "name": "Infra Et Intus"
   },
@@ -984502,6 +984858,10 @@
   {
     "appid": 3656400,
     "name": "Dragon's Chronicles~暗黒大魔王と北斗の剣(つるぎ)~"
+  },
+  {
+    "appid": 3656420,
+    "name": "DETECTIVE - Scene Crime"
   },
   {
     "appid": 3656440,
@@ -985530,6 +985890,10 @@
   {
     "appid": 3661720,
     "name": "Ragdoll Boxing Multiplayer Demo"
+  },
+  {
+    "appid": 3661730,
+    "name": "The E-Collector Demo"
   },
   {
     "appid": 3661740,
@@ -987548,6 +987912,98 @@
     "name": "Screenside Station"
   },
   {
+    "appid": 3671070,
+    "name": "Call of Duty Endowment (C.O.D.E.) Warrior Pack"
+  },
+  {
+    "appid": 3671080,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 1)"
+  },
+  {
+    "appid": 3671090,
+    "name": "Call of Duty®: Modern Warfare® III - Moto Freak Pro Pack"
+  },
+  {
+    "appid": 3671100,
+    "name": "Call of Duty®: Modern Warfare® III - Tech Luxe Pro Pack"
+  },
+  {
+    "appid": 3671110,
+    "name": "Call of Duty Endowment (C.O.D.E.) Direct Action Pack"
+  },
+  {
+    "appid": 3671120,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 2)"
+  },
+  {
+    "appid": 3671130,
+    "name": "Call of Duty®: Modern Warfare® III - Nova 6 Pro Pack"
+  },
+  {
+    "appid": 3671150,
+    "name": "Call of Duty League™ - Atlanta FaZe Team Pack 2024"
+  },
+  {
+    "appid": 3671160,
+    "name": "Call of Duty League™ - Boston Breach Team Pack 2024"
+  },
+  {
+    "appid": 3671170,
+    "name": "Call of Duty League™ - Miami Heretics Team Pack 2024"
+  },
+  {
+    "appid": 3671180,
+    "name": "Call of Duty League™ - Carolina Royal Ravens Team Pack 2024"
+  },
+  {
+    "appid": 3671190,
+    "name": "Call of Duty League™ - Los Angeles Guerrillas Team Pack 2024"
+  },
+  {
+    "appid": 3671200,
+    "name": "Call of Duty League™ - Los Angeles Thieves Team Pack 2024"
+  },
+  {
+    "appid": 3671210,
+    "name": "Call of Duty League™ - Minnesota ROKKR Team Pack 2024"
+  },
+  {
+    "appid": 3671220,
+    "name": "Call of Duty League™ - New York Subliners Team Pack 2024"
+  },
+  {
+    "appid": 3671230,
+    "name": "Call of Duty League™ - OpTic Texas Team Pack 2024"
+  },
+  {
+    "appid": 3671240,
+    "name": "Call of Duty League™ - Seattle Surge Team Pack 2024"
+  },
+  {
+    "appid": 3671250,
+    "name": "Call of Duty League™ - Toronto Ultra Team Pack 2024"
+  },
+  {
+    "appid": 3671260,
+    "name": "Call of Duty League™ - Vegas Legion Team Pack 2024"
+  },
+  {
+    "appid": 3671270,
+    "name": "Call of Duty®: Modern Warfare® III - Emerald Pro Pack"
+  },
+  {
+    "appid": 3671280,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 3)"
+  },
+  {
+    "appid": 3671290,
+    "name": "Call of Duty®: Modern Warfare® III - Cyberjunkie: Pro Pack"
+  },
+  {
+    "appid": 3671300,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack"
+  },
+  {
     "appid": 3671320,
     "name": "We Need An Army"
   },
@@ -988204,6 +988660,30 @@
     "name": "Fantasy Grounds - Dungeon Denizens"
   },
   {
+    "appid": 3673820,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 4)"
+  },
+  {
+    "appid": 3673830,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Custom Molded Ultra Skin Pro Pack"
+  },
+  {
+    "appid": 3673840,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Zodiac: Cancer Pro Pack"
+  },
+  {
+    "appid": 3673860,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Underboss Pro Pack"
+  },
+  {
+    "appid": 3673870,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 5)"
+  },
+  {
+    "appid": 3673890,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Ghost Punk Pro Pack"
+  },
+  {
     "appid": 3673900,
     "name": "Re:Gals Panic 2｜幻想天蠶變 2"
   },
@@ -988308,8 +988788,152 @@
     "name": "FALLSTRUKTUR"
   },
   {
+    "appid": 3674280,
+    "name": "Call of Duty®: Modern Warfare® III - BlackCell (Season 6)"
+  },
+  {
+    "appid": 3674300,
+    "name": "Call of Duty®: Modern Warfare® III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack"
+  },
+  {
+    "appid": 3674310,
+    "name": "Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack"
+  },
+  {
+    "appid": 3674320,
+    "name": "Call of Duty®: Modern Warfare® III - Ghost Legacy Pack"
+  },
+  {
+    "appid": 3674330,
+    "name": "Call of Duty®: Modern Warfare® III - MW II - Vault Edition Pack"
+  },
+  {
+    "appid": 3674340,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Vault Edition Pack 2"
+  },
+  {
+    "appid": 3674350,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Standard Edition"
+  },
+  {
+    "appid": 3674370,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty Endowment (C.O.D.E.) - Perseverance Pack"
+  },
+  {
+    "appid": 3674380,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty Endowment (C.O.D.E.) - Protector Pack"
+  },
+  {
+    "appid": 3674390,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Final Judgement Bundle"
+  },
+  {
+    "appid": 3674400,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Khaled Al-Asad Operator Bundle"
+  },
+  {
+    "appid": 3674410,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Desert Rogue: Pro Pack"
+  },
+  {
+    "appid": 3674420,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Dune Stalker: Starter-pack"
+  },
+  {
+    "appid": 3674430,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Urban Veteran: Pro Pack"
+  },
+  {
+    "appid": 3674440,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - BlackCell (Season 03)"
+  },
+  {
+    "appid": 3674450,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - BCS3 LC"
+  },
+  {
+    "appid": 3674460,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Itadakimasu: Starter Pack"
+  },
+  {
+    "appid": 3674470,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Manticore: Pro Pack"
+  },
+  {
+    "appid": 3674480,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty Endowment (C.O.D.E.) - Valkyrie Pack"
+  },
+  {
+    "appid": 3674490,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Demon Deer: Pro Pack"
+  },
+  {
+    "appid": 3674500,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Griffin: Pro Pack"
+  },
+  {
+    "appid": 3674510,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Graffiti Tactical: Pro Pack"
+  },
+  {
+    "appid": 3674520,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - BlackCell (Season 04)"
+  },
+  {
+    "appid": 3674540,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - BlackCell (Season 05)"
+  },
+  {
+    "appid": 3674550,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Gunslinger Ghost: Pro Pack"
+  },
+  {
+    "appid": 3674560,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Cosmic Traveler: Pro Pack"
+  },
+  {
+    "appid": 3674570,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - BlackCell (Season 06)"
+  },
+  {
+    "appid": 3674580,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Pumpkin Patch: Pro Pack"
+  },
+  {
     "appid": 3674590,
     "name": "Noirmancer"
+  },
+  {
+    "appid": 3674600,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Launch Pack"
+  },
+  {
+    "appid": 3674610,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Atlanta FaZe Pack 2023"
+  },
+  {
+    "appid": 3674620,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Boston Breach Pack 2023"
+  },
+  {
+    "appid": 3674630,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Florida Mutineers Pack 2023"
+  },
+  {
+    "appid": 3674640,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - London Royal Ravens Pack 2023"
+  },
+  {
+    "appid": 3674650,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Los Angeles Guerrillas Pack 2023"
+  },
+  {
+    "appid": 3674660,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Los Angeles Thieves Pack 2023"
+  },
+  {
+    "appid": 3674670,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Minnesota ROKKR Pack 2023"
   },
   {
     "appid": 3674680,
@@ -988320,8 +988944,76 @@
     "name": "Stay"
   },
   {
+    "appid": 3674700,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - New York Subliners Pack 2023"
+  },
+  {
+    "appid": 3674710,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - OpTic Texas Pack 2023"
+  },
+  {
+    "appid": 3674720,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Vegas Legion Pack 2023"
+  },
+  {
+    "appid": 3674730,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Seattle Surge Pack 2023"
+  },
+  {
+    "appid": 3674740,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Toronto Ultra Pack 2023"
+  },
+  {
+    "appid": 3674760,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Atlanta FaZe Team Pack 2023"
+  },
+  {
+    "appid": 3674770,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Boston Breach Team Pack 2023"
+  },
+  {
+    "appid": 3674780,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Florida Mutineers Team Pack 2023"
+  },
+  {
     "appid": 3674790,
     "name": "Russian Survivors"
+  },
+  {
+    "appid": 3674800,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - London Royal Ravens Team Pack 2023"
+  },
+  {
+    "appid": 3674810,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Los Angeles Guerrillas Team Pack 2023"
+  },
+  {
+    "appid": 3674820,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Los Angeles Thieves Team Pack 2023"
+  },
+  {
+    "appid": 3674830,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Minnesota ROKKR Team Pack 2023"
+  },
+  {
+    "appid": 3674840,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - New York Subliners Team Pack 2023"
+  },
+  {
+    "appid": 3674850,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - OpTic Texas Team Pack 2023"
+  },
+  {
+    "appid": 3674860,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Vegas Legion Team Pack 2023"
+  },
+  {
+    "appid": 3674870,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Seattle Surge Team Pack 2023"
+  },
+  {
+    "appid": 3674880,
+    "name": "Call of Duty®: Modern Warfare® III - MWII - Call of Duty League™ - Toronto Ultra Team Pack 2023"
   },
   {
     "appid": 3674890,
@@ -989076,6 +989768,10 @@
     "name": "喵喵角斗士 Demo"
   },
   {
+    "appid": 3678410,
+    "name": "万界商人"
+  },
+  {
     "appid": 3678420,
     "name": "Videonauts"
   },
@@ -989245,7 +989941,7 @@
   },
   {
     "appid": 3679070,
-    "name": "DeepMountain"
+    "name": "Unsealed Pact"
   },
   {
     "appid": 3679080,
@@ -989338,6 +990034,10 @@
   {
     "appid": 3679490,
     "name": "Besmirch Demo"
+  },
+  {
+    "appid": 3679500,
+    "name": "Rise to King Ortler"
   },
   {
     "appid": 3679520,
@@ -990944,6 +991644,10 @@
     "name": "Isoforge Demo"
   },
   {
+    "appid": 3685890,
+    "name": "Shimmer's Quest - Way of the Whoop"
+  },
+  {
     "appid": 3685900,
     "name": "Creepy Support"
   },
@@ -991841,7 +992545,7 @@
   },
   {
     "appid": 3689560,
-    "name": "BossFish"
+    "name": "Idlequarium"
   },
   {
     "appid": 3689570,
@@ -992998,6 +993702,10 @@
   {
     "appid": 3694190,
     "name": "Deep Pixel Melancholy"
+  },
+  {
+    "appid": 3694200,
+    "name": "GODBREAKERS Demo"
   },
   {
     "appid": 3694210,
@@ -995644,6 +996352,10 @@
     "name": "Turn Lands"
   },
   {
+    "appid": 3706280,
+    "name": "Your Father"
+  },
+  {
     "appid": 3706300,
     "name": "Veloria: The Knot of Candle - Official Guidebook"
   },
@@ -997094,6 +997806,10 @@
   {
     "appid": 3712050,
     "name": "Cardcaster Demo"
+  },
+  {
+    "appid": 3712060,
+    "name": "Island World"
   },
   {
     "appid": 3712070,
@@ -999868,6 +1000584,10 @@
     "name": "Your Dealer"
   },
   {
+    "appid": 3723700,
+    "name": "Conquer Lands Demo"
+  },
+  {
     "appid": 3723710,
     "name": "Escape the Baby Alarm"
   },
@@ -1001106,6 +1001826,10 @@
   {
     "appid": 3728750,
     "name": "Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 12"
+  },
+  {
+    "appid": 3728760,
+    "name": "Noor"
   },
   {
     "appid": 3728770,
@@ -1005338,6 +1006062,10 @@
   {
     "appid": 3746920,
     "name": "Retro Golf Mania Playtest"
+  },
+  {
+    "appid": 3746940,
+    "name": "Hellbound, Inc."
   },
   {
     "appid": 3746950,
@@ -1010549,7 +1011277,7 @@
   },
   {
     "appid": 3769780,
-    "name": "Among Us Ranked"
+    "name": "Among Us Ranked (Unofficial)"
   },
   {
     "appid": 3769790,
@@ -1011014,6 +1011742,10 @@
   {
     "appid": 3771940,
     "name": "Rail Gunner - Full Game Unlock"
+  },
+  {
+    "appid": 3771950,
+    "name": "Wandfall"
   },
   {
     "appid": 3771990,
@@ -1013541,7 +1014273,7 @@
   },
   {
     "appid": 3782880,
-    "name": "Don’t Scream: Coop"
+    "name": "Try Not to Scream: Coop"
   },
   {
     "appid": 3782890,
@@ -1013982,6 +1014714,10 @@
   {
     "appid": 3784930,
     "name": "Fish Tales and Cozy Trails"
+  },
+  {
+    "appid": 3784940,
+    "name": "Grounded 2 Digital Artbook & Soundtrack"
   },
   {
     "appid": 3784950,
@@ -1014576,6 +1015312,10 @@
     "name": "Test Zero"
   },
   {
+    "appid": 3788090,
+    "name": "Grounded 2: Founder’s Pack"
+  },
+  {
     "appid": 3788100,
     "name": "Numina: Construct Demo"
   },
@@ -1014890,6 +1015630,10 @@
   {
     "appid": 3789280,
     "name": "taking my Dark Knight Girlfriend to the corner store"
+  },
+  {
+    "appid": 3789290,
+    "name": "Bad Golf"
   },
   {
     "appid": 3789310,
@@ -1015286,6 +1016030,10 @@
   {
     "appid": 3791140,
     "name": "劍紙三國 Demo"
+  },
+  {
+    "appid": 3791150,
+    "name": "The Great Gaias - Lord of Sorcery"
   },
   {
     "appid": 3791170,
@@ -1017000,6 +1017748,10 @@
     "name": "Flappy Bat 3 Demo"
   },
   {
+    "appid": 3798860,
+    "name": "Family Horror Story"
+  },
+  {
     "appid": 3798930,
     "name": "Analog - MIRROR"
   },
@@ -1017893,7 +1018645,7 @@
   },
   {
     "appid": 3803670,
-    "name": "Hazard Pay"
+    "name": "Combat Pay"
   },
   {
     "appid": 3803700,
@@ -1018242,6 +1018994,10 @@
   {
     "appid": 3805350,
     "name": "Aghori"
+  },
+  {
+    "appid": 3805360,
+    "name": "Build-a-lot: On Vacation"
   },
   {
     "appid": 3805370,
@@ -1018914,6 +1019670,10 @@
   {
     "appid": 3808280,
     "name": "NightMaze Playtest"
+  },
+  {
+    "appid": 3808300,
+    "name": "Go Once More Playtest"
   },
   {
     "appid": 3808310,
@@ -1019768,6 +1020528,10 @@
     "name": "Live Translate"
   },
   {
+    "appid": 3812800,
+    "name": "Fantasy Grounds - Dungeon Crawl Classics - By Mitra's Bones, Meet Thy Doom!"
+  },
+  {
     "appid": 3812810,
     "name": "Kawai'ian Isolation"
   },
@@ -1020184,6 +1020948,10 @@
     "name": "Gold and Bricks Demo"
   },
   {
+    "appid": 3814710,
+    "name": "B.Q."
+  },
+  {
     "appid": 3814760,
     "name": "Mascot Mayhem Demo"
   },
@@ -1020474,6 +1021242,10 @@
   {
     "appid": 3816220,
     "name": "WingWhiz"
+  },
+  {
+    "appid": 3816290,
+    "name": "Bit Mage"
   },
   {
     "appid": 3816300,
@@ -1020898,6 +1021670,10 @@
   {
     "appid": 3818940,
     "name": "OUTGUNNED"
+  },
+  {
+    "appid": 3818950,
+    "name": "PanzenTD"
   },
   {
     "appid": 3818960,
@@ -1022208,6 +1022984,10 @@
     "name": "What Has Come Before Demo"
   },
   {
+    "appid": 3825240,
+    "name": "Nocturnomaly"
+  },
+  {
     "appid": 3825260,
     "name": "Mr. Cloak Playtest"
   },
@@ -1022510,6 +1023290,10 @@
   {
     "appid": 3826710,
     "name": "Kiipluu"
+  },
+  {
+    "appid": 3826730,
+    "name": "Ashen World"
   },
   {
     "appid": 3826780,
@@ -1024640,6 +1025424,10 @@
     "name": "Dead Exhale Playtest"
   },
   {
+    "appid": 3839040,
+    "name": "Dead Exhale Demo"
+  },
+  {
     "appid": 3839050,
     "name": "Death and Tactics Demo"
   },
@@ -1025436,6 +1026224,10 @@
     "name": "Grow to Rot"
   },
   {
+    "appid": 3843520,
+    "name": "The Temple of Elemental Evil"
+  },
+  {
     "appid": 3843530,
     "name": "Forgotten Realms: Demon Stone"
   },
@@ -1025888,6 +1026680,10 @@
     "name": "Hexabot Stranded: Defend Or Die"
   },
   {
+    "appid": 3846350,
+    "name": "Winter Heat Demo"
+  },
+  {
     "appid": 3846360,
     "name": "The Goblin Tavern"
   },
@@ -1025954,6 +1026750,10 @@
   {
     "appid": 3846710,
     "name": "The Wake"
+  },
+  {
+    "appid": 3846720,
+    "name": "プレイすると死ぬゲーム"
   },
   {
     "appid": 3846760,
@@ -1026362,6 +1027162,10 @@
   {
     "appid": 3848930,
     "name": "VELOCIBLASTER Playtest"
+  },
+  {
+    "appid": 3848960,
+    "name": "Archer - Virtual Realms"
   },
   {
     "appid": 3848970,
@@ -1026888,6 +1027692,10 @@
     "name": "Sir Whoopass™: Whoop and Chill - The Fluff Awakens Skin Pack"
   },
   {
+    "appid": 3851950,
+    "name": "Redshift"
+  },
+  {
     "appid": 3851970,
     "name": "宇宙灯塔 Playtest"
   },
@@ -1027002,6 +1027810,10 @@
   {
     "appid": 3852600,
     "name": "Rake"
+  },
+  {
+    "appid": 3852620,
+    "name": "Fantasy Grounds - Royal Society of Mythologies"
   },
   {
     "appid": 3852650,
@@ -1027210,6 +1028022,10 @@
   {
     "appid": 3853880,
     "name": "Sea of Trials Demo"
+  },
+  {
+    "appid": 3853890,
+    "name": "NINJA GAIDEN: Ragebound (Original Game Soundtrack)"
   },
   {
     "appid": 3853940,
@@ -1027640,6 +1028456,10 @@
     "name": "Warhammer 40,000: Space Marine 2 - Mod Tools"
   },
   {
+    "appid": 3856340,
+    "name": "LenscraftCube 相机方块"
+  },
+  {
     "appid": 3856390,
     "name": "Idle Wizard - Bat Hunter Pack"
   },
@@ -1027776,6 +1028596,10 @@
     "name": "Midnight Crane Demo"
   },
   {
+    "appid": 3857360,
+    "name": "LenscraftCube 相机方块 Demo"
+  },
+  {
     "appid": 3857370,
     "name": "Theriothron Spire"
   },
@@ -1027894,6 +1028718,10 @@
   {
     "appid": 3857900,
     "name": "Hentai Night Club"
+  },
+  {
+    "appid": 3857950,
+    "name": "HH TRAP: Reality's Glitch"
   },
   {
     "appid": 3857970,
@@ -1028632,6 +1029460,10 @@
     "name": "BRUTALISMUS: Dystopia Soundtrack"
   },
   {
+    "appid": 3861870,
+    "name": "Future? No Thanks!"
+  },
+  {
     "appid": 3861880,
     "name": "仿品一號 Imitation No.1"
   },
@@ -1028826,6 +1029658,10 @@
   {
     "appid": 3862820,
     "name": "鸳鸯风云录——白中悬案 Demo"
+  },
+  {
+    "appid": 3862830,
+    "name": "Magic Brush"
   },
   {
     "appid": 3862840,
@@ -1029152,8 +1029988,16 @@
     "name": "Escape from Spikes"
   },
   {
+    "appid": 3864890,
+    "name": "星火燎原"
+  },
+  {
     "appid": 3864910,
     "name": "Night Sentinel"
+  },
+  {
+    "appid": 3864930,
+    "name": "Battle Halls"
   },
   {
     "appid": 3864940,
@@ -1029162,6 +1030006,10 @@
   {
     "appid": 3864960,
     "name": "Pumuckl und die Krone des Piratenkönigs"
+  },
+  {
+    "appid": 3865000,
+    "name": "猫愿日记"
   },
   {
     "appid": 3865040,
@@ -1029188,6 +1030036,14 @@
     "name": "Ultimate Lemon Basket Demo"
   },
   {
+    "appid": 3865280,
+    "name": "Cipheur - Trivia: Biology"
+  },
+  {
+    "appid": 3865290,
+    "name": "Cipheur - Trivia: Astronomy"
+  },
+  {
     "appid": 3865340,
     "name": "Deadcam"
   },
@@ -1029212,6 +1030068,10 @@
     "name": "Darkness Takeover"
   },
   {
+    "appid": 3865480,
+    "name": "Take7"
+  },
+  {
     "appid": 3865500,
     "name": "Demonborg Mining Co Demo"
   },
@@ -1029234,6 +1030094,10 @@
   {
     "appid": 3865600,
     "name": "이세계 메이드 / 푸른 장미의 신데렐라"
+  },
+  {
+    "appid": 3865650,
+    "name": "Fantasy Grounds - Dolmenwood - Winter's Daughter"
   },
   {
     "appid": 3865680,
@@ -1029544,6 +1030408,10 @@
     "name": "Frozen Feathers"
   },
   {
+    "appid": 3867530,
+    "name": "Way to Town"
+  },
+  {
     "appid": 3867540,
     "name": "Drinking Medieval Playtest"
   },
@@ -1029566,6 +1030434,10 @@
   {
     "appid": 3867710,
     "name": "Rage Tower"
+  },
+  {
+    "appid": 3867760,
+    "name": "Shell Bless the Faithless Demo"
   },
   {
     "appid": 3867770,
@@ -1029844,6 +1030716,10 @@
     "name": "VOIMA"
   },
   {
+    "appid": 3869510,
+    "name": "VOIMA Demo"
+  },
+  {
     "appid": 3869550,
     "name": "ultimate frolf chaos! - the frolfverse"
   },
@@ -1029974,6 +1030850,10 @@
   {
     "appid": 3870380,
     "name": "Balls, Dice & Stickers Demo"
+  },
+  {
+    "appid": 3870390,
+    "name": "萌宠桌面大冒险 Demo"
   },
   {
     "appid": 3870440,
@@ -1030548,6 +1031428,10 @@
     "name": "The Lord of the Rings: Return to Moria™ Durin's Folk Expansion"
   },
   {
+    "appid": 3874680,
+    "name": "地层之下"
+  },
+  {
     "appid": 3874700,
     "name": "妖恋西游 Demo"
   },
@@ -1030716,6 +1031600,10 @@
     "name": "Pigeon Coo-lette"
   },
   {
+    "appid": 3875880,
+    "name": "Door Puzzle"
+  },
+  {
     "appid": 3875890,
     "name": "Murder of King Mere"
   },
@@ -1030756,6 +1031644,10 @@
     "name": "Pedal Rebel VR Playtest"
   },
   {
+    "appid": 3876120,
+    "name": "The Gallery (ft. Riley Magras)"
+  },
+  {
     "appid": 3876130,
     "name": "Lichtgetroffen"
   },
@@ -1030780,6 +1031672,10 @@
     "name": "Gaucho and the Grassland Soundtrack"
   },
   {
+    "appid": 3876270,
+    "name": "Fantasy Grounds - The Ruined Abbey of St. Clewyd"
+  },
+  {
     "appid": 3876390,
     "name": "Switched Destiny Demo"
   },
@@ -1030790,6 +1031686,10 @@
   {
     "appid": 3876420,
     "name": "Ship Miner Playtest"
+  },
+  {
+    "appid": 3876450,
+    "name": "Fantasy Grounds - Pathfinder RPG - Flip-Mat: Underground City Multi-Pack"
   },
   {
     "appid": 3876460,
@@ -1030864,6 +1031764,10 @@
     "name": "Chaos Beach: A Virgin Boy’s Pheromone-Fueled Summer of Lust! Demo"
   },
   {
+    "appid": 3877010,
+    "name": "NTR Tales – Adventurer Corruption"
+  },
+  {
     "appid": 3877060,
     "name": "Relaxing Sudoku and Futushiki"
   },
@@ -1030894,6 +1031798,10 @@
   {
     "appid": 3877170,
     "name": "狗狗浴场"
+  },
+  {
+    "appid": 3877200,
+    "name": "TURBOCIDE"
   },
   {
     "appid": 3877240,
@@ -1031168,6 +1032076,10 @@
     "name": "Geodyssey"
   },
   {
+    "appid": 3878870,
+    "name": "Pixel Way: Prologue"
+  },
+  {
     "appid": 3878890,
     "name": "Penguin's Love"
   },
@@ -1031257,7 +1032169,7 @@
   },
   {
     "appid": 3879640,
-    "name": "Primal Planet Soundtrack"
+    "name": "Primal Planet (Original Soundtrack)"
   },
   {
     "appid": 3879710,
@@ -1031296,6 +1032208,10 @@
     "name": "Amanita"
   },
   {
+    "appid": 3880060,
+    "name": "Corrupted Basement"
+  },
+  {
     "appid": 3880070,
     "name": "刀蛐蛐 Demo"
   },
@@ -1031314,6 +1032230,10 @@
   {
     "appid": 3880160,
     "name": "Tower! Simulator 3 - NZAA Airport"
+  },
+  {
+    "appid": 3880170,
+    "name": "Hope - The Game"
   },
   {
     "appid": 3880200,
@@ -1031402,6 +1032322,10 @@
   {
     "appid": 3880580,
     "name": "Weeks Till Winter Playtest"
+  },
+  {
+    "appid": 3880600,
+    "name": "We who rise"
   },
   {
     "appid": 3880620,
@@ -1031508,6 +1032432,10 @@
     "name": "Sex Game - Naughty Couple - Episode 2"
   },
   {
+    "appid": 3881850,
+    "name": "We who rise Demo"
+  },
+  {
     "appid": 3881880,
     "name": "Solar Nations 2 Demo"
   },
@@ -1031516,12 +1032444,20 @@
     "name": "The Unseen Fears: Last Dance Collector's Edition"
   },
   {
+    "appid": 3881900,
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Flip-Mat: Deadly Mines Multi-Pack"
+  },
+  {
     "appid": 3881920,
     "name": "Good Children Say Grace"
   },
   {
     "appid": 3881940,
     "name": "LiM Grid Wars"
+  },
+  {
+    "appid": 3881950,
+    "name": "Fantasy Grounds - Mourngloom Keep for Shadowdark RPG"
   },
   {
     "appid": 3881970,
@@ -1031534,6 +1032470,10 @@
   {
     "appid": 3882020,
     "name": "Avernum 4: Greed and Glory"
+  },
+  {
+    "appid": 3882030,
+    "name": "Whispered Secrets: Enfant Terrible Collector's Edition"
   },
   {
     "appid": 3882050,
@@ -1031584,6 +1032524,10 @@
     "name": "Let's Café Soundtrack"
   },
   {
+    "appid": 3882540,
+    "name": "HavenFlower: Regrets Of"
+  },
+  {
     "appid": 3882560,
     "name": "ShellPieces"
   },
@@ -1031632,6 +1032576,10 @@
     "name": "Electrician Simulator VR - Skin Pack DLC"
   },
   {
+    "appid": 3882840,
+    "name": "像素狂袭"
+  },
+  {
     "appid": 3882860,
     "name": "I Am A Stick"
   },
@@ -1031642,6 +1032590,14 @@
   {
     "appid": 3882940,
     "name": "The White Cat’s Dark Affair"
+  },
+  {
+    "appid": 3882950,
+    "name": "Trainz 2022 DLC - UP GP38-2 Patch 564-605 EX-SP"
+  },
+  {
+    "appid": 3882960,
+    "name": "Trainz Plus DLC - UP GP38-2 Patch 564-605 EX-SP"
   },
   {
     "appid": 3883000,
@@ -1031674,6 +1032630,10 @@
   {
     "appid": 3883360,
     "name": "Static Dread: The Lighthouse - Digital Art Collection"
+  },
+  {
+    "appid": 3883420,
+    "name": "小王子"
   },
   {
     "appid": 3883470,
@@ -1031748,6 +1032708,10 @@
     "name": "Hotdog Hazards"
   },
   {
+    "appid": 3884020,
+    "name": "Dead by Daylight: The Walking Dead"
+  },
+  {
     "appid": 3884030,
     "name": "WooLoop - Astronomy Pack"
   },
@@ -1031770,6 +1032734,10 @@
   {
     "appid": 3884140,
     "name": "Legends of Savvarah: Children of the Sun | Action Cards"
+  },
+  {
+    "appid": 3884260,
+    "name": "Fantasy Grounds - Vampire: The Masquerade - The Book of Nod Apocrypha"
   },
   {
     "appid": 3884280,
@@ -1031828,6 +1032796,10 @@
     "name": "Bearly Brave Demo"
   },
   {
+    "appid": 3884640,
+    "name": "Fantasy Grounds - Star Trek Adventures: Gamma Quadrant Sourcebook"
+  },
+  {
     "appid": 3884660,
     "name": "My Cozy BookShop"
   },
@@ -1031838,6 +1032810,10 @@
   {
     "appid": 3884690,
     "name": "Bus Flipper - Supporter Pack"
+  },
+  {
+    "appid": 3884710,
+    "name": "Fantasy Grounds - Traveller - War Fleets of the Fifth Frontier War"
   },
   {
     "appid": 3884820,
@@ -1031941,15 +1032917,23 @@
   },
   {
     "appid": 3885630,
-    "name": "钓不太明白的卡牌游戏"
+    "name": "钓鱼牌"
   },
   {
     "appid": 3885650,
     "name": "Thrive Soundtrack"
   },
   {
+    "appid": 3885660,
+    "name": "Monster Hunter Wilds Original Soundtrack"
+  },
+  {
     "appid": 3885690,
     "name": "Frozen Feathers Playtest"
+  },
+  {
+    "appid": 3885740,
+    "name": "BeetleQuest: The Puzzle Game"
   },
   {
     "appid": 3885750,
@@ -1032006,6 +1032990,10 @@
   {
     "appid": 3886170,
     "name": "Noctambulo Soundtrack"
+  },
+  {
+    "appid": 3886190,
+    "name": "Magic Cat"
   },
   {
     "appid": 3886220,
@@ -1032134,6 +1033122,10 @@
   {
     "appid": 3887540,
     "name": "Jump Greed"
+  },
+  {
+    "appid": 3887580,
+    "name": "RGB"
   },
   {
     "appid": 3887600,
@@ -1032312,6 +1033304,10 @@
     "name": "Unseen"
   },
   {
+    "appid": 3890650,
+    "name": "Reign of Victory"
+  },
+  {
     "appid": 3890660,
     "name": "Rachel's Journal"
   },
@@ -1032358,6 +1033354,10 @@
   {
     "appid": 3891120,
     "name": "101 Dogs Hidden in Dubai"
+  },
+  {
+    "appid": 3891180,
+    "name": "Watchstander"
   },
   {
     "appid": 3891190,
@@ -1032420,6 +1033420,10 @@
     "name": "BrainRot Battle"
   },
   {
+    "appid": 3891850,
+    "name": "Fate of Gun"
+  },
+  {
     "appid": 3891900,
     "name": "FLINT"
   },
@@ -1032430,6 +1033434,10 @@
   {
     "appid": 3891970,
     "name": "Bleentoro"
+  },
+  {
+    "appid": 3892000,
+    "name": "Chess of Doom Playtest"
   },
   {
     "appid": 3892010,
@@ -1032600,6 +1033608,10 @@
     "name": "Bleentoro Demo"
   },
   {
+    "appid": 3893620,
+    "name": "Solar Knight"
+  },
+  {
     "appid": 3893660,
     "name": "Echoes of the HIve Demo"
   },
@@ -1032642,6 +1033654,14 @@
   {
     "appid": 3893850,
     "name": "Space Memory: Mushrooms"
+  },
+  {
+    "appid": 3893870,
+    "name": "100 Berlin Cats Soundtrack"
+  },
+  {
+    "appid": 3893880,
+    "name": "100 Berlin Cats  - Artbook"
   },
   {
     "appid": 3893910,
@@ -1032700,6 +1033720,10 @@
     "name": "Captain Gazman Day Of The Rage Soundtrack - Naval Breeze Radio"
   },
   {
+    "appid": 3894540,
+    "name": "Vicarius"
+  },
+  {
     "appid": 3894630,
     "name": "Hentai Cyber"
   },
@@ -1032744,6 +1033768,14 @@
     "name": "FLOW"
   },
   {
+    "appid": 3895080,
+    "name": "Motorcycle Ride: Infinity"
+  },
+  {
+    "appid": 3895090,
+    "name": "Evil Doll 2"
+  },
+  {
     "appid": 3895120,
     "name": "核心战力组"
   },
@@ -1032786,6 +1033818,14 @@
   {
     "appid": 3895680,
     "name": "University Is Hell"
+  },
+  {
+    "appid": 3895780,
+    "name": "Chip'N'Putt"
+  },
+  {
+    "appid": 3895830,
+    "name": "Chip'N'Putt Demo"
   },
   {
     "appid": 3895850,
@@ -1032844,12 +1033884,20 @@
     "name": "Toll Booth Simulator: Schedule of Chaos"
   },
   {
+    "appid": 3896320,
+    "name": "二零将棋"
+  },
+  {
     "appid": 3896340,
     "name": "Master of Pieces © Jigsaw Puzzle DLC - Mandalas and Fractals"
   },
   {
     "appid": 3896360,
     "name": "SlapCats"
+  },
+  {
+    "appid": 3896410,
+    "name": "Dewazma"
   },
   {
     "appid": 3896450,
@@ -1032866,6 +1033914,10 @@
   {
     "appid": 3896540,
     "name": "Idle Pixels"
+  },
+  {
+    "appid": 3896710,
+    "name": "Sinbadexpress"
   },
   {
     "appid": 3896740,
@@ -1032892,6 +1033944,10 @@
     "name": "Sniperbot: The Hype Game"
   },
   {
+    "appid": 3897150,
+    "name": "帝國遊戲：像素英雄 Demo"
+  },
+  {
     "appid": 3897290,
     "name": "TrueTree"
   },
@@ -1032914,6 +1033970,10 @@
   {
     "appid": 3897450,
     "name": "Find My Frogs - Paper"
+  },
+  {
+    "appid": 3897530,
+    "name": "Dark Monastry"
   },
   {
     "appid": 3897540,
@@ -1032956,6 +1034016,10 @@
     "name": "Datquinso Desktop Pets"
   },
   {
+    "appid": 3898050,
+    "name": "Dead By Headshot"
+  },
+  {
     "appid": 3898080,
     "name": "Quadcubes"
   },
@@ -1032966,6 +1034030,10 @@
   {
     "appid": 3898250,
     "name": "Bean There Swung That Demo"
+  },
+  {
+    "appid": 3898600,
+    "name": "The Hitchhiker's Guide to Seoul in the 21st Century"
   },
   {
     "appid": 3898690,
@@ -1032994,6 +1034062,10 @@
   {
     "appid": 3899010,
     "name": "Soba's Gunpaw"
+  },
+  {
+    "appid": 3899040,
+    "name": "ShaQu"
   },
   {
     "appid": 3899100,
@@ -1033040,12 +1034112,20 @@
     "name": "Anime Dream Match: Birds"
   },
   {
+    "appid": 3900070,
+    "name": "Flashmaster"
+  },
+  {
     "appid": 3900160,
     "name": "Misdecayed"
   },
   {
     "appid": 3900240,
     "name": "Cryptadia Village"
+  },
+  {
+    "appid": 3900280,
+    "name": "Date A Catboy"
   },
   {
     "appid": 3900410,
@@ -1033060,6 +1034140,10 @@
     "name": "Scrapocalypse Demo"
   },
   {
+    "appid": 3900500,
+    "name": "Empty Space: The Creator"
+  },
+  {
     "appid": 3900540,
     "name": "Hexa Harmony"
   },
@@ -1033068,8 +1034152,16 @@
     "name": "Dr Dreams Simulator Demo"
   },
   {
+    "appid": 3900680,
+    "name": "The Last Good Boy Demo"
+  },
+  {
     "appid": 3900740,
     "name": "Nachtmahr"
+  },
+  {
+    "appid": 3900970,
+    "name": "Soukh"
   },
   {
     "appid": 3901070,
@@ -1033092,8 +1034184,16 @@
     "name": "Coup d'Koala Demo"
   },
   {
+    "appid": 3901710,
+    "name": "Little Eternal Chronicle (Demo)"
+  },
+  {
     "appid": 3901730,
     "name": "Сумрак Demo"
+  },
+  {
+    "appid": 3901900,
+    "name": "RESTORER Soundtrack"
   },
   {
     "appid": 3901940,
@@ -1033112,6 +1034212,14 @@
     "name": "Purrrification Demo"
   },
   {
+    "appid": 3902260,
+    "name": "Family Crush Soundtrack"
+  },
+  {
+    "appid": 3902470,
+    "name": "Etude"
+  },
+  {
     "appid": 3902490,
     "name": "SkyRunner"
   },
@@ -1033122,6 +1034230,14 @@
   {
     "appid": 3902730,
     "name": "Plump! Dumb Frog Pond Playtest"
+  },
+  {
+    "appid": 3902830,
+    "name": "我装哔全靠AI"
+  },
+  {
+    "appid": 3902860,
+    "name": "Dominated by: Yandere Goth Girlfriend 5"
   },
   {
     "appid": 3903150,
@@ -1033140,6 +1034256,10 @@
     "name": "Anomaly Observer Demo"
   },
   {
+    "appid": 3903520,
+    "name": "Arm the Hero"
+  },
+  {
     "appid": 3903580,
     "name": "Titanic"
   },
@@ -1033150,6 +1034270,10 @@
   {
     "appid": 3903620,
     "name": "Just Another Night"
+  },
+  {
+    "appid": 3903710,
+    "name": "Ruler of Roguemount"
   },
   {
     "appid": 3903720,
@@ -1033170,6 +1034294,10 @@
   {
     "appid": 3904120,
     "name": "go cycling"
+  },
+  {
+    "appid": 3904150,
+    "name": "Click the Cat 3"
   },
   {
     "appid": 3904160,
@@ -1033196,20 +1034324,48 @@
     "name": "Pirate Guy"
   },
   {
+    "appid": 3904890,
+    "name": "Volcano Oden"
+  },
+  {
     "appid": 3904910,
     "name": "Once Up Musical"
+  },
+  {
+    "appid": 3905500,
+    "name": "Beware of the Cartographer!"
   },
   {
     "appid": 3905510,
     "name": "Falling Face Fragments"
   },
   {
+    "appid": 3905580,
+    "name": "Kart Racing World"
+  },
+  {
     "appid": 3905770,
     "name": "King's Guard Demo"
   },
   {
+    "appid": 3905960,
+    "name": "Watchstander - RoR ONLY"
+  },
+  {
     "appid": 3906130,
     "name": "Only Up: BRAINROT TOGETHER"
+  },
+  {
+    "appid": 3906210,
+    "name": "SH Demo"
+  },
+  {
+    "appid": 3906250,
+    "name": "Veil of Sight Demo"
+  },
+  {
+    "appid": 3907320,
+    "name": "Shop"
   },
   {
     "appid": 3907410,
@@ -1033220,6 +1034376,10 @@
     "name": "Dungeon Cleaners Demo"
   },
   {
+    "appid": 3907660,
+    "name": "Tai Chi Like"
+  },
+  {
     "appid": 3907860,
     "name": "打工不如斗地主 Demo"
   },
@@ -1033228,7 +1034388,71 @@
     "name": "Catharage Demo"
   },
   {
+    "appid": 3908220,
+    "name": "Hidden Cats: Old Amusement Park - Extra Level"
+  },
+  {
+    "appid": 3908430,
+    "name": "Veilbreaker"
+  },
+  {
+    "appid": 3908440,
+    "name": "Play a game with me"
+  },
+  {
+    "appid": 3909040,
+    "name": "Handsum Playtest"
+  },
+  {
     "appid": 3909080,
     "name": "Ecto Mercenary Program Playtest"
+  },
+  {
+    "appid": 3909440,
+    "name": "潜鸭杰米 Demo"
+  },
+  {
+    "appid": 3909450,
+    "name": "An Altered State"
+  },
+  {
+    "appid": 3909460,
+    "name": "木积 Demo"
+  },
+  {
+    "appid": 3909510,
+    "name": "BrickLayer"
+  },
+  {
+    "appid": 3909770,
+    "name": "Brew & Bloom"
+  },
+  {
+    "appid": 3909820,
+    "name": "Dead Beyond Demo"
+  },
+  {
+    "appid": 3909830,
+    "name": "Ballerspiel Playtest"
+  },
+  {
+    "appid": 3909980,
+    "name": "IdleZomb Playtest"
+  },
+  {
+    "appid": 3910040,
+    "name": "《明末：渊虚之域》影之刃零"
+  },
+  {
+    "appid": 3910080,
+    "name": "Trimjob"
+  },
+  {
+    "appid": 3910520,
+    "name": "Psebay Demo"
+  },
+  {
+    "appid": 3910600,
+    "name": "middenmoon Playtest"
   }
 ]
