@@ -817893,7 +817893,7 @@
   },
   {
     "appid": 3010970,
-    "name": "Climate Survivors"
+    "name": "Hotspot Earth"
   },
   {
     "appid": 3010980,
@@ -865730,6 +865730,10 @@
   {
     "appid": 3191060,
     "name": "Cosmic Blastards Playtest"
+  },
+  {
+    "appid": 3191070,
+    "name": "Sova"
   },
   {
     "appid": 3191080,
@@ -916944,6 +916948,10 @@
     "name": "ZDSimulator"
   },
   {
+    "appid": 3381130,
+    "name": "World of Eggs: Idle Adventures"
+  },
+  {
     "appid": 3381140,
     "name": "XIII - A Final Game of Tarot With Death"
   },
@@ -924538,6 +924546,10 @@
   {
     "appid": 3410510,
     "name": "Sophistry: Living Card Game Playtest"
+  },
+  {
+    "appid": 3410520,
+    "name": "Paper Soccer"
   },
   {
     "appid": 3410530,
@@ -941584,6 +941596,10 @@
     "name": "Imperiums: Supporter’s Edition"
   },
   {
+    "appid": 3474500,
+    "name": "Bubbles!"
+  },
+  {
     "appid": 3474510,
     "name": "Hopeguard"
   },
@@ -958482,6 +958498,10 @@
   {
     "appid": 3540360,
     "name": "FUCK PARTY CLUB"
+  },
+  {
+    "appid": 3540410,
+    "name": "Watcher from the Void Demo"
   },
   {
     "appid": 3540420,
@@ -989646,6 +989666,10 @@
   {
     "appid": 3665550,
     "name": "Raptors vs. Goblins"
+  },
+  {
+    "appid": 3665560,
+    "name": "Hands of the Sovereign"
   },
   {
     "appid": 3665570,
@@ -1032008,6 +1032032,10 @@
     "name": "Dominated by Yandere Goth Girlfriend 3: On the Beach"
   },
   {
+    "appid": 3841010,
+    "name": "Niramare Quest: Saving a World That Loves Hating Me"
+  },
+  {
     "appid": 3841020,
     "name": "Snail Mail Demo"
   },
@@ -1037700,6 +1037728,10 @@
     "name": "Rope"
   },
   {
+    "appid": 3866180,
+    "name": "Dear my『 』"
+  },
+  {
     "appid": 3866200,
     "name": "Project: Null point"
   },
@@ -1040608,6 +1040640,10 @@
     "name": "Tuggowar - Arsenal Management"
   },
   {
+    "appid": 3880410,
+    "name": "Glisynth"
+  },
+  {
     "appid": 3880420,
     "name": "Fix & Flick"
   },
@@ -1041772,6 +1041808,10 @@
     "name": "Spirit Whisperer Conversation With Akari Demo"
   },
   {
+    "appid": 3885280,
+    "name": "Tank Down: Metal Fury"
+  },
+  {
     "appid": 3885310,
     "name": "NODE: The Last Favor of the Antarii Soundtrack"
   },
@@ -1042154,6 +1042194,10 @@
   {
     "appid": 3887120,
     "name": "Fechtbucher"
+  },
+  {
+    "appid": 3887130,
+    "name": "Fluffy Escape: Cryptic Cube"
   },
   {
     "appid": 3887140,
@@ -1044724,6 +1044768,10 @@
     "name": "Little Eternal Chronicle (Demo)"
   },
   {
+    "appid": 3901720,
+    "name": "Mouldog Demo"
+  },
+  {
     "appid": 3901730,
     "name": "Сумрак Demo"
   },
@@ -1047156,6 +1047204,10 @@
     "name": "My Hot Goth Roommate Became My Goonmate"
   },
   {
+    "appid": 3914260,
+    "name": "Cat Chaos Demo"
+  },
+  {
     "appid": 3914270,
     "name": "折翼"
   },
@@ -1048688,6 +1048740,10 @@
     "name": "Koshchei The Immortal"
   },
   {
+    "appid": 3922150,
+    "name": "BirdFlu"
+  },
+  {
     "appid": 3922160,
     "name": "DryFire"
   },
@@ -1048702,6 +1048758,10 @@
   {
     "appid": 3922210,
     "name": "Sweetie Candy Maze: Red Cherry"
+  },
+  {
+    "appid": 3922230,
+    "name": "Dead Frequency Demo"
   },
   {
     "appid": 3922260,
@@ -1049210,6 +1049270,10 @@
   {
     "appid": 3924590,
     "name": "Ravy Davy: Attack on Ambiguity"
+  },
+  {
+    "appid": 3924600,
+    "name": "Beyond Your Wall"
   },
   {
     "appid": 3924620,
@@ -1050988,6 +1051052,10 @@
     "name": "Dig For Riches"
   },
   {
+    "appid": 3934110,
+    "name": "Car Race Simulator"
+  },
+  {
     "appid": 3934150,
     "name": "Shoplifter: No Escape"
   },
@@ -1051836,6 +1051904,10 @@
     "name": "Huedini Demo"
   },
   {
+    "appid": 3939760,
+    "name": "Tamer Town - prologue"
+  },
+  {
     "appid": 3939810,
     "name": "Claw Dropper"
   },
@@ -1052189,7 +1052261,7 @@
   },
   {
     "appid": 3941990,
-    "name": "RPG Maker MV - Leila’s Fantasy Music Pack"
+    "name": "RPG Maker MV - Leila's Fantasy Music Pack"
   },
   {
     "appid": 3942020,
@@ -1052201,7 +1052273,7 @@
   },
   {
     "appid": 3942040,
-    "name": "RPG Maker MZ - Leila’s Fantasy Music Pack"
+    "name": "RPG Maker MZ - Leila's Fantasy Music Pack"
   },
   {
     "appid": 3942080,
@@ -1053076,6 +1053148,10 @@
     "name": "DWARFARE"
   },
   {
+    "appid": 3947620,
+    "name": "OrePlant Playtest"
+  },
+  {
     "appid": 3947630,
     "name": "天書 Demo"
   },
@@ -1053222,6 +1053298,10 @@
   {
     "appid": 3948410,
     "name": "Find All Things: Christmas"
+  },
+  {
+    "appid": 3948460,
+    "name": "Teach my little sister how to drive"
   },
   {
     "appid": 3948480,
@@ -1053594,6 +1053674,10 @@
   {
     "appid": 3950260,
     "name": "地下冒险者"
+  },
+  {
+    "appid": 3950270,
+    "name": "Teach my little sister how to drive Demo"
   },
   {
     "appid": 3950280,
@@ -1054508,6 +1054592,10 @@
     "name": "DriveWave Demo"
   },
   {
+    "appid": 3955910,
+    "name": "그날의 신문 Demo"
+  },
+  {
     "appid": 3955920,
     "name": "CYBRLICH and the Death Cult of Labor Playtest"
   },
@@ -1054550,6 +1054638,10 @@
   {
     "appid": 3956130,
     "name": "The Rogue Prince of Persia Ubisoft Activation"
+  },
+  {
+    "appid": 3956170,
+    "name": "ステータス確認探偵"
   },
   {
     "appid": 3956260,
@@ -1055280,6 +1055372,10 @@
     "name": "The Kindling"
   },
   {
+    "appid": 3960990,
+    "name": "Gallery of Night Order"
+  },
+  {
     "appid": 3961050,
     "name": "Gulo-Gulo the tiny pirate: Island Time"
   },
@@ -1055874,6 +1055970,10 @@
   {
     "appid": 3965370,
     "name": "Darksword: Premium Battle Pass Season 4"
+  },
+  {
+    "appid": 3965380,
+    "name": "动物面包店 Demo"
   },
   {
     "appid": 3965390,
@@ -1056480,6 +1056580,10 @@
     "name": "PAGUI -  Expansion Pack - GodGirl"
   },
   {
+    "appid": 3969850,
+    "name": "绯红编年史 ~ Chronicle of Scarlet ~ Soundtrack"
+  },
+  {
     "appid": 3969860,
     "name": "KillCam FPS"
   },
@@ -1056948,6 +1057052,10 @@
     "name": "Daemon X Machina: Titanic Scion - Free Emotes"
   },
   {
+    "appid": 3974210,
+    "name": "ZomBFFs"
+  },
+  {
     "appid": 3974250,
     "name": "Pixelogic: Nonograms Unlimited Demo"
   },
@@ -1057046,6 +1057154,10 @@
   {
     "appid": 3975350,
     "name": "人狼バーガー Jinro Burger"
+  },
+  {
+    "appid": 3975360,
+    "name": "Otherworld Live: Watch and Learn"
   },
   {
     "appid": 3975380,
@@ -1057688,6 +1057800,10 @@
     "name": "Arc’s Glitch Defender Soundtrack"
   },
   {
+    "appid": 3981850,
+    "name": "Loot & Ledger Demo"
+  },
+  {
     "appid": 3981950,
     "name": "Breath of Life"
   },
@@ -1058260,6 +1058376,10 @@
     "name": "The Search For Above Average Life Demo"
   },
   {
+    "appid": 3987400,
+    "name": "Coastal Postal"
+  },
+  {
     "appid": 3987440,
     "name": "Press&Release"
   },
@@ -1058772,6 +1058892,10 @@
     "name": "果壳机动：钛垣防线 Demo"
   },
   {
+    "appid": 3993750,
+    "name": "SYNCO PATH: SECLUSION SYSTEM Demo"
+  },
+  {
     "appid": 3993770,
     "name": "Juvenate"
   },
@@ -1058850,6 +1058974,10 @@
   {
     "appid": 3995330,
     "name": "공고소녀(Gong GO Girl) Demo"
+  },
+  {
+    "appid": 3995370,
+    "name": "Cozyrama Demo"
   },
   {
     "appid": 3995440,
@@ -1059016,6 +1059144,10 @@
     "name": "Puzzle Pleasant"
   },
   {
+    "appid": 3998650,
+    "name": "CHICK POP!"
+  },
+  {
     "appid": 3998680,
     "name": "Dreamcards Playtest"
   },
@@ -1059062,6 +1059194,10 @@
   {
     "appid": 3999470,
     "name": "Loop My Crank Demo"
+  },
+  {
+    "appid": 3999530,
+    "name": "Naginami and the Crimson Thread Demo"
   },
   {
     "appid": 3999540,
@@ -1059192,6 +1059328,10 @@
     "name": "VEIN Soundtrack"
   },
   {
+    "appid": 4001870,
+    "name": "Hentai Zarhuna"
+  },
+  {
     "appid": 4001910,
     "name": "Maze Infinite Puzzle"
   },
@@ -1059240,6 +1059380,10 @@
     "name": "Infinite Game Cartridge Collection - Endless Diver"
   },
   {
+    "appid": 4003280,
+    "name": "Sex Game - Naughty Girls - Episode 5"
+  },
+  {
     "appid": 4003300,
     "name": "The Last Star Walker Demo"
   },
@@ -1059250,6 +1059394,10 @@
   {
     "appid": 4003510,
     "name": "Familiar Findings Playtest"
+  },
+  {
+    "appid": 4003530,
+    "name": "Tales of Legendary Lust: Aphrodisia - Lewds Library & Bonus Art Pack"
   },
   {
     "appid": 4003750,
