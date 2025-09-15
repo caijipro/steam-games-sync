@@ -660044,6 +660044,10 @@
     "name": "Starlights"
   },
   {
+    "appid": 2425430,
+    "name": "UZG Remastered Playtest"
+  },
+  {
     "appid": 2425440,
     "name": "Seven Skies to Paradise Demo"
   },
@@ -754941,7 +754945,7 @@
   },
   {
     "appid": 2776270,
-    "name": "BeetleBall"
+    "name": "Beetleball"
   },
   {
     "appid": 2776280,
@@ -771266,6 +771270,10 @@
   {
     "appid": 2836150,
     "name": "The Nightmare Of Arrival Chapter 1 DEMO"
+  },
+  {
+    "appid": 2836160,
+    "name": "Dark Truth"
   },
   {
     "appid": 2836170,
@@ -805217,7 +805225,7 @@
   },
   {
     "appid": 2964550,
-    "name": "VR Realms"
+    "name": "devgames3085"
   },
   {
     "appid": 2964560,
@@ -853037,7 +853045,7 @@
   },
   {
     "appid": 3142480,
-    "name": "Endzone 2: Supporter Pack"
+    "name": "Endzone 2: Wallpaper Pack"
   },
   {
     "appid": 3142500,
@@ -881610,6 +881618,10 @@
   {
     "appid": 3247610,
     "name": "Otaku Miracles"
+  },
+  {
+    "appid": 3247620,
+    "name": "Silent Pathways"
   },
   {
     "appid": 3247640,
@@ -932416,6 +932428,10 @@
     "name": "Zaccaria Pinball - Shooting the Rapids Deluxe Pinball Table"
   },
   {
+    "appid": 3439870,
+    "name": "Nexus Storm"
+  },
+  {
     "appid": 3439880,
     "name": "Contraband Police - Crimson Fall"
   },
@@ -978344,6 +978360,10 @@
     "name": "My Beautiful Misinterpretation of Words"
   },
   {
+    "appid": 3619040,
+    "name": "Half-Life Legacy"
+  },
+  {
     "appid": 3619060,
     "name": "Gluttony Gods"
   },
@@ -1015692,6 +1015712,10 @@
     "name": "Capri Care Demo"
   },
   {
+    "appid": 3766920,
+    "name": "Cry Of Monster"
+  },
+  {
     "appid": 3766930,
     "name": "Flowers And Favours: Florist Simulator Demo"
   },
@@ -1019622,6 +1019646,10 @@
   {
     "appid": 3782900,
     "name": "A Lighthouse Tale"
+  },
+  {
+    "appid": 3782910,
+    "name": "Goblin Nest"
   },
   {
     "appid": 3782920,
@@ -1024026,6 +1024054,14 @@
   {
     "appid": 3801810,
     "name": "Bandit"
+  },
+  {
+    "appid": 3801840,
+    "name": "100 Sri Lanka Cats - Artbook"
+  },
+  {
+    "appid": 3801850,
+    "name": "100 Sri Lanka Cats Soundtrack"
   },
   {
     "appid": 3801860,
@@ -1054804,6 +1054840,10 @@
     "name": "PLATFORM 0"
   },
   {
+    "appid": 3948310,
+    "name": "Zero-G Guns Demo"
+  },
+  {
     "appid": 3948320,
     "name": "Jumbot"
   },
@@ -1056584,6 +1056624,10 @@
     "name": "吸血鬼大小姐想和我上学"
   },
   {
+    "appid": 3957460,
+    "name": "Electio"
+  },
+  {
     "appid": 3957480,
     "name": "Western Gun Shop Simulator"
   },
@@ -1056638,6 +1056682,10 @@
   {
     "appid": 3957820,
     "name": "真相剪辑师(Redacted) Demo"
+  },
+  {
+    "appid": 3957840,
+    "name": "Strato Freaks DX"
   },
   {
     "appid": 3957860,
@@ -1057456,6 +1057504,10 @@
     "name": "Pickle Pete"
   },
   {
+    "appid": 3963050,
+    "name": "Eyes Of The ElderWood"
+  },
+  {
     "appid": 3963060,
     "name": "Celestial Lumina"
   },
@@ -1057810,6 +1057862,10 @@
   {
     "appid": 3965160,
     "name": "Starboi"
+  },
+  {
+    "appid": 3965180,
+    "name": "SproutBound"
   },
   {
     "appid": 3965190,
@@ -1062004,6 +1062060,10 @@
     "name": "Friendsmob Demo"
   },
   {
+    "appid": 3997110,
+    "name": "雷霆之眼"
+  },
+  {
     "appid": 3997140,
     "name": "VOID RED"
   },
@@ -1062214,6 +1062274,10 @@
   {
     "appid": 3998840,
     "name": "Dog Go To The Moon"
+  },
+  {
+    "appid": 3998880,
+    "name": "SEXシミュレーター for Kikyo"
   },
   {
     "appid": 3998900,
@@ -1062604,6 +1062668,14 @@
     "name": "Ecto Corporations Playtest"
   },
   {
+    "appid": 4001350,
+    "name": "Iron Blight"
+  },
+  {
+    "appid": 4001360,
+    "name": "Nowhere To Go"
+  },
+  {
     "appid": 4001390,
     "name": "Floyd's Cafe"
   },
@@ -1062652,6 +1062724,10 @@
     "name": "Stylite Heaven"
   },
   {
+    "appid": 4001860,
+    "name": "Volkolak: The Will of Gods Soundtrack"
+  },
+  {
     "appid": 4001870,
     "name": "Hentai Zarhuna"
   },
@@ -1062698,6 +1062774,10 @@
   {
     "appid": 4002360,
     "name": "Avoid the Missiles Demo"
+  },
+  {
+    "appid": 4002490,
+    "name": "Bayaya Demo"
   },
   {
     "appid": 4002500,
@@ -1063040,6 +1063120,10 @@
     "name": "Heaven Does Not Respond Demo"
   },
   {
+    "appid": 4006010,
+    "name": "Plinbo Demo"
+  },
+  {
     "appid": 4006030,
     "name": "EpochExtinction"
   },
@@ -1063308,6 +1063392,10 @@
     "name": "OLYEN"
   },
   {
+    "appid": 4010940,
+    "name": "Hellmarch™ Demo"
+  },
+  {
     "appid": 4010990,
     "name": "The Smoke Playtest"
   },
@@ -1063528,6 +1063616,10 @@
     "name": "Micro Rush"
   },
   {
+    "appid": 4014930,
+    "name": "The Mushroom Adventrue:Call of Distant Realms Playtest"
+  },
+  {
     "appid": 4014940,
     "name": "My Retro World"
   },
@@ -1063542,6 +1063634,10 @@
   {
     "appid": 4015130,
     "name": "Ratpack Playtest"
+  },
+  {
+    "appid": 4015140,
+    "name": "Qubx 2 Playtest"
   },
   {
     "appid": 4015310,
@@ -1063592,6 +1063688,10 @@
     "name": "TooManyBots"
   },
   {
+    "appid": 4015900,
+    "name": "Grim Pastures: Outlaws Demo"
+  },
+  {
     "appid": 4015910,
     "name": "NSFW Solitaire - Masturbation"
   },
@@ -1063626,6 +1063726,10 @@
   {
     "appid": 4016390,
     "name": "Breaking Enigma"
+  },
+  {
+    "appid": 4016410,
+    "name": "オーバーフロー Demo"
   },
   {
     "appid": 4016490,
@@ -1063696,6 +1063800,10 @@
     "name": "Milford Heaven II - Urg's Ascension"
   },
   {
+    "appid": 4017750,
+    "name": "Katanaut Soundtrack"
+  },
+  {
     "appid": 4017800,
     "name": "soundless - A MODERN SALEM IN REMOTE AREA - Official Artbook"
   },
@@ -1063722,6 +1063830,14 @@
   {
     "appid": 4018200,
     "name": "You’ve Got a Package"
+  },
+  {
+    "appid": 4018290,
+    "name": "Glisynth Demo"
+  },
+  {
+    "appid": 4018310,
+    "name": "RePulse-X Playtest"
   },
   {
     "appid": 4018390,
@@ -1063796,6 +1063912,10 @@
     "name": "Mr. Hoob! Demo"
   },
   {
+    "appid": 4020320,
+    "name": "STARVAULT"
+  },
+  {
     "appid": 4020350,
     "name": "FLOSS Playtest"
   },
@@ -1063856,12 +1063976,24 @@
     "name": "Rift Survivors Demo"
   },
   {
+    "appid": 4023700,
+    "name": "Accelerator Operator Demo"
+  },
+  {
     "appid": 4024280,
     "name": "Wretch Demo"
   },
   {
+    "appid": 4025200,
+    "name": "WALKER Demo"
+  },
+  {
     "appid": 4026070,
     "name": "Ctesiphon Demo"
+  },
+  {
+    "appid": 4026650,
+    "name": "Bharat Police Demo"
   },
   {
     "appid": 4027460,
