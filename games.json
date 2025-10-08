@@ -209028,6 +209028,10 @@
     "name": "Lucky Night: Poker Games"
   },
   {
+    "appid": 862540,
+    "name": "Paper Roll 2"
+  },
+  {
     "appid": 862550,
     "name": "Solar Warden Demo"
   },
@@ -306250,6 +306254,10 @@
   {
     "appid": 1205513,
     "name": "Langrisser I & II - Songs of War 3-Disc Soundtrack"
+  },
+  {
+    "appid": 1205520,
+    "name": "Pentiment"
   },
   {
     "appid": 1205530,
@@ -531300,10 +531308,6 @@
     "name": "Unlock the Feelings"
   },
   {
-    "appid": 1961800,
-    "name": "One Way Trip"
-  },
-  {
     "appid": 1961840,
     "name": "Lunatia Covenant -Pale White Agent-"
   },
@@ -656688,10 +656692,6 @@
     "name": "Subspace Discovery Playtest"
   },
   {
-    "appid": 2414000,
-    "name": "Dashes & Squares"
-  },
-  {
     "appid": 2414010,
     "name": "Garage Flipper: Prologue"
   },
@@ -656706,10 +656706,6 @@
   {
     "appid": 2414040,
     "name": "Dungeon Renovation Simulator Demo"
-  },
-  {
-    "appid": 2414060,
-    "name": "Dashes & Squares - Demo"
   },
   {
     "appid": 2414070,
@@ -664509,7 +664505,7 @@
   },
   {
     "appid": 2441050,
-    "name": "라이트 오디세이 Demo"
+    "name": "Light Odyssey Demo"
   },
   {
     "appid": 2441070,
@@ -678720,6 +678716,10 @@
     "name": "Fallen Angel: Hell Survival"
   },
   {
+    "appid": 2490860,
+    "name": "The Ward Hollow Deeds"
+  },
+  {
     "appid": 2490870,
     "name": "Seekers Aeterna Playtest"
   },
@@ -680622,6 +680622,10 @@
   {
     "appid": 2497790,
     "name": "Quartet Demo"
+  },
+  {
+    "appid": 2497800,
+    "name": "Shrine's Legacy Soundtrack"
   },
   {
     "appid": 2497820,
@@ -705372,10 +705376,6 @@
     "name": "NARUTO TO BORUTO: SHINOBI STRIKER - NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS Collaboration Pack"
   },
   {
-    "appid": 2592250,
-    "name": "Classic Content Pack for Dashes & Squares"
-  },
-  {
     "appid": 2592270,
     "name": "Fate and Life: The Mystery of Vaulinhorn Demo"
   },
@@ -722798,10 +722798,6 @@
   {
     "appid": 2655520,
     "name": "BLYX"
-  },
-  {
-    "appid": 2655530,
-    "name": "BFF Skin Pack for Dashes & Squares"
   },
   {
     "appid": 2655570,
@@ -756380,10 +756376,6 @@
     "name": "Teeny Tiny Town Demo"
   },
   {
-    "appid": 2781910,
-    "name": "Bellumentum"
-  },
-  {
     "appid": 2781950,
     "name": "Shadow Strikers Demo"
   },
@@ -766934,10 +766926,6 @@
   {
     "appid": 2820110,
     "name": "Anno 1503 - History Edition"
-  },
-  {
-    "appid": 2820120,
-    "name": "Ultimate shifumi championship"
   },
   {
     "appid": 2820130,
@@ -781685,7 +781673,7 @@
   },
   {
     "appid": 2876280,
-    "name": "TheAthorian: DarkZone"
+    "name": "Echo of the DarkZone"
   },
   {
     "appid": 2876290,
@@ -801658,6 +801646,10 @@
   {
     "appid": 2951590,
     "name": "Dungeon Full Dive - True Supporter Dice"
+  },
+  {
+    "appid": 2951600,
+    "name": "Chefs Arena"
   },
   {
     "appid": 2951610,
@@ -835852,10 +835844,6 @@
     "name": "EVERDREAM"
   },
   {
-    "appid": 3077220,
-    "name": "Tech Hustle"
-  },
-  {
     "appid": 3077230,
     "name": "Open Blocks"
   },
@@ -863906,6 +863894,10 @@
   {
     "appid": 3183520,
     "name": "SickWay VR Demo"
+  },
+  {
+    "appid": 3183530,
+    "name": "三国英雄传奇"
   },
   {
     "appid": 3183540,
@@ -926284,6 +926276,10 @@
     "name": "SFXEngine Sound Pack: Army"
   },
   {
+    "appid": 3414150,
+    "name": "SFXEngine Sound Pack: Inside"
+  },
+  {
     "appid": 3414240,
     "name": "GRUBBY FINGERS"
   },
@@ -957194,6 +957190,10 @@
   {
     "appid": 3531360,
     "name": "Scribbles"
+  },
+  {
+    "appid": 3531390,
+    "name": "乌托邦的钥匙/The key of Utopia"
   },
   {
     "appid": 3531410,
@@ -988532,6 +988532,10 @@
     "name": "百陽師"
   },
   {
+    "appid": 3654070,
+    "name": "纸鸢-数字设定集（简体中文版）"
+  },
+  {
     "appid": 3654080,
     "name": "纸鸢数字海报与动态壁纸"
   },
@@ -994220,6 +994224,10 @@
     "name": "Deepstone Rift Demo"
   },
   {
+    "appid": 3675400,
+    "name": "捣蛋蛙（Croak Squad）"
+  },
+  {
     "appid": 3675410,
     "name": "Baby Kings Demo"
   },
@@ -997722,6 +997730,10 @@
   {
     "appid": 3689170,
     "name": "Battle for Ercaton: Robot Uprising Demo"
+  },
+  {
+    "appid": 3689190,
+    "name": "Past Memos Demo"
   },
   {
     "appid": 3689200,
@@ -1001584,6 +1001596,10 @@
     "name": "The Pale Piper Demo"
   },
   {
+    "appid": 3704540,
+    "name": "Unending Aqua"
+  },
+  {
     "appid": 3704550,
     "name": "Hope Demo"
   },
@@ -1001966,6 +1001982,10 @@
   {
     "appid": 3706150,
     "name": "Solve or Die"
+  },
+  {
+    "appid": 3706160,
+    "name": "[Bober Bros] No Means Nothing"
   },
   {
     "appid": 3706190,
@@ -1004232,6 +1004252,10 @@
     "name": "薛定谔迷宫"
   },
   {
+    "appid": 3714560,
+    "name": "Fool's Cup"
+  },
+  {
     "appid": 3714570,
     "name": "Neon Striker Demo"
   },
@@ -1004532,6 +1004556,10 @@
     "name": "Delta 78: O Passageiro"
   },
   {
+    "appid": 3715890,
+    "name": "FriendsAndFangs"
+  },
+  {
     "appid": 3715910,
     "name": "Oh! Robot: Legendary Mechanic Demo"
   },
@@ -1004705,7 +1004733,7 @@
   },
   {
     "appid": 3716550,
-    "name": "Windstorm: The Legend of Khiimori - Playtest"
+    "name": "The Legend of Khiimori - Playtest"
   },
   {
     "appid": 3716580,
@@ -1010081,7 +1010109,7 @@
   },
   {
     "appid": 3737120,
-    "name": "Spook Show"
+    "name": "Spookshow"
   },
   {
     "appid": 3737130,
@@ -1014413,7 +1014441,7 @@
   },
   {
     "appid": 3754410,
-    "name": "See No Evil"
+    "name": "Our Eyes See No Evil"
   },
   {
     "appid": 3754430,
@@ -1019288,6 +1019316,10 @@
     "name": "トリガーハートエグゼリカエンハンスド（TriggerHeart EXELICA ENHANCED） Soundtrack"
   },
   {
+    "appid": 3772960,
+    "name": "UMIGARI | ウミガリ"
+  },
+  {
     "appid": 3772980,
     "name": "Celephaïs Dead Cities"
   },
@@ -1019857,7 +1019889,7 @@
   },
   {
     "appid": 3774950,
-    "name": "100 Cats Lost In Space Find & Color"
+    "name": "Cosmic Cats: Hidden Journey"
   },
   {
     "appid": 3774970,
@@ -1022316,6 +1022348,10 @@
     "name": "Fish Tales and Cozy Trails"
   },
   {
+    "appid": 3784940,
+    "name": "Grounded 2 Digital Artbook & Soundtrack"
+  },
+  {
     "appid": 3784950,
     "name": "SUBS"
   },
@@ -1023938,6 +1023974,10 @@
   {
     "appid": 3791770,
     "name": "星詠みのアルケミスト ~Stardust & Shenanigans~"
+  },
+  {
+    "appid": 3791780,
+    "name": "Cold Steel"
   },
   {
     "appid": 3791790,
@@ -1025764,6 +1025804,10 @@
     "name": "Postal Strike"
   },
   {
+    "appid": 3799220,
+    "name": "Bearstone Campsite Demo"
+  },
+  {
     "appid": 3799230,
     "name": "when the rumors become real - emoji*16"
   },
@@ -1027532,6 +1027576,10 @@
     "name": "Courier Simulator"
   },
   {
+    "appid": 3806390,
+    "name": "System Clues Demo"
+  },
+  {
     "appid": 3806410,
     "name": "Chef's Journey Demo"
   },
@@ -1028022,6 +1028070,10 @@
   {
     "appid": 3808340,
     "name": "Mage Outbreak"
+  },
+  {
+    "appid": 3808360,
+    "name": "Out on the Water Demo"
   },
   {
     "appid": 3808370,
@@ -1033265,7 +1033317,7 @@
   },
   {
     "appid": 3830330,
-    "name": "Hotel Bagatelle (Alpha 1)"
+    "name": "Project Dolf (Alpha)"
   },
   {
     "appid": 3830340,
@@ -1033326,6 +1033378,10 @@
   {
     "appid": 3830530,
     "name": "Cube Hits Corner"
+  },
+  {
+    "appid": 3830560,
+    "name": "AMANATSU+"
   },
   {
     "appid": 3830570,
@@ -1035700,6 +1035756,10 @@
     "name": "Cinema Theater Tycoon Playtest"
   },
   {
+    "appid": 3840930,
+    "name": "Dismau"
+  },
+  {
     "appid": 3840940,
     "name": "Delta 78: O Passageiro Demo"
   },
@@ -1035770,6 +1035830,10 @@
   {
     "appid": 3841240,
     "name": "AstroRage2049"
+  },
+  {
+    "appid": 3841250,
+    "name": "The Adventure of Ravi 'n' Navi"
   },
   {
     "appid": 3841260,
@@ -1035866,6 +1035930,10 @@
   {
     "appid": 3841640,
     "name": "PANGIT"
+  },
+  {
+    "appid": 3841660,
+    "name": "Box Bunny"
   },
   {
     "appid": 3841710,
@@ -1045036,6 +1045104,10 @@
     "name": "Ludominar"
   },
   {
+    "appid": 3880330,
+    "name": "氷点下30度の絶望 サウンドトラック"
+  },
+  {
     "appid": 3880340,
     "name": "WarFactory Playtest"
   },
@@ -1046544,6 +1046616,10 @@
     "name": "KOALAS DELIV & GUY"
   },
   {
+    "appid": 3886320,
+    "name": "Mazebound Demo"
+  },
+  {
     "appid": 3886340,
     "name": "Last One Standing Demo"
   },
@@ -1047678,6 +1047754,10 @@
   {
     "appid": 3891010,
     "name": "Blue Detective: A Hotel in Scarlet"
+  },
+  {
+    "appid": 3891020,
+    "name": "SRPG Studio EX"
   },
   {
     "appid": 3891030,
@@ -1049872,6 +1049952,10 @@
     "name": "EVERDATE: The Let's Play Dating Game Playtest"
   },
   {
+    "appid": 3900940,
+    "name": "Good Things Vol 1"
+  },
+  {
     "appid": 3900960,
     "name": "Inspector Detector"
   },
@@ -1050426,6 +1050510,10 @@
   {
     "appid": 3903850,
     "name": "Dungeons of Eternity - Avatar Cape Collection"
+  },
+  {
+    "appid": 3903900,
+    "name": "STREAM"
   },
   {
     "appid": 3903920,
@@ -1052126,6 +1052214,10 @@
   {
     "appid": 3911640,
     "name": "Roadside Research Demo"
+  },
+  {
+    "appid": 3911660,
+    "name": "Arttista Demo"
   },
   {
     "appid": 3911680,
@@ -1054516,6 +1054608,10 @@
     "name": "RABBAT"
   },
   {
+    "appid": 3922050,
+    "name": "Chilling Silence"
+  },
+  {
     "appid": 3922060,
     "name": "Sad Virus Land"
   },
@@ -1055724,6 +1055820,10 @@
     "name": "Hexabot Stranded: Defend Or Die Playtest"
   },
   {
+    "appid": 3927130,
+    "name": "Red Frontier Demo"
+  },
+  {
     "appid": 3927140,
     "name": "Comb Rider"
   },
@@ -1056074,6 +1056174,10 @@
   {
     "appid": 3928560,
     "name": "Frenzy Freak Fantasy"
+  },
+  {
+    "appid": 3928600,
+    "name": "Coconut CEO Idle"
   },
   {
     "appid": 3928610,
@@ -1056700,6 +1056804,10 @@
     "name": "MangaCo"
   },
   {
+    "appid": 3931300,
+    "name": "Cycle of Corruption Demo"
+  },
+  {
     "appid": 3931340,
     "name": "Lexis Playtest"
   },
@@ -1056710,6 +1056818,10 @@
   {
     "appid": 3931370,
     "name": "Panic Sell - GOLD"
+  },
+  {
+    "appid": 3931380,
+    "name": "Little Red Riding Hood"
   },
   {
     "appid": 3931390,
@@ -1056854,6 +1056966,10 @@
   {
     "appid": 3931960,
     "name": "Nightcrawler"
+  },
+  {
+    "appid": 3931970,
+    "name": "Vietnam Warrior: Against the US Invasion"
   },
   {
     "appid": 3931980,
@@ -1057006,6 +1057122,10 @@
   {
     "appid": 3932810,
     "name": "The Jester and the Madman Demo"
+  },
+  {
+    "appid": 3932820,
+    "name": "Neuter Master: Supporter Pack"
   },
   {
     "appid": 3932840,
@@ -1057460,6 +1057580,10 @@
     "name": "Tin Lord Demo"
   },
   {
+    "appid": 3934850,
+    "name": "Street Racer Collection (QUByte Classics)"
+  },
+  {
     "appid": 3934860,
     "name": "Idle Champions - 6x Choose Your Champion Starter Pack"
   },
@@ -1057658,6 +1057782,10 @@
   {
     "appid": 3936440,
     "name": "Shell Soldier Playtest"
+  },
+  {
+    "appid": 3936450,
+    "name": "Cult of Shadows"
   },
   {
     "appid": 3936460,
@@ -1061528,6 +1061656,10 @@
     "name": "RHL 20XX"
   },
   {
+    "appid": 3952640,
+    "name": "Virtual Fighter Maneuvers"
+  },
+  {
     "appid": 3952670,
     "name": "하숙생이 전부 미녀입니다만? 시즌2 Demo"
   },
@@ -1061614,6 +1061746,10 @@
   {
     "appid": 3953130,
     "name": "独鸢恋章-Love letter to Hibiscus"
+  },
+  {
+    "appid": 3953140,
+    "name": "The Canary"
   },
   {
     "appid": 3953150,
@@ -1061926,6 +1062062,10 @@
   {
     "appid": 3954540,
     "name": "Yinglet Creator"
+  },
+  {
+    "appid": 3954550,
+    "name": "HiNekst"
   },
   {
     "appid": 3954580,
@@ -1062492,6 +1062632,10 @@
     "name": "Fantasy Franchise"
   },
   {
+    "appid": 3957120,
+    "name": "Homeshift Demo"
+  },
+  {
     "appid": 3957140,
     "name": "电音弹道"
   },
@@ -1062718,6 +1062862,10 @@
   {
     "appid": 3958110,
     "name": "LEGO® Voyagers Soundtrack"
+  },
+  {
+    "appid": 3958120,
+    "name": "Wonder Warp Demo"
   },
   {
     "appid": 3958130,
@@ -1063324,6 +1063472,10 @@
     "name": "Fantasy Grounds - FG Kingdoms World Building Map Pack"
   },
   {
+    "appid": 3961210,
+    "name": "Fantasy Grounds - Dungeons & Dragons - Stranger Things: Welcome to the Hellfire Club"
+  },
+  {
     "appid": 3961220,
     "name": "VADE RETRO SATANA"
   },
@@ -1063450,6 +1063602,10 @@
   {
     "appid": 3961830,
     "name": "By Your Hands Demo"
+  },
+  {
+    "appid": 3961850,
+    "name": "Void Raid"
   },
   {
     "appid": 3961860,
@@ -1063810,6 +1063966,10 @@
   {
     "appid": 3963610,
     "name": "Yandere Goth BDSM 4"
+  },
+  {
+    "appid": 3963630,
+    "name": "Rosie"
   },
   {
     "appid": 3963640,
@@ -1064968,6 +1065128,10 @@
     "name": "MGCM Combat Edition - DLC char : Nemesis"
   },
   {
+    "appid": 3969060,
+    "name": "UMIGARI | ウミガリ Demo"
+  },
+  {
     "appid": 3969070,
     "name": "Night Drone Demo"
   },
@@ -1065054,6 +1065218,10 @@
   {
     "appid": 3969570,
     "name": "Dovedays : Time Flies Demo"
+  },
+  {
+    "appid": 3969590,
+    "name": "Systemic War Demo"
   },
   {
     "appid": 3969600,
@@ -1065194,6 +1065362,10 @@
   {
     "appid": 3970580,
     "name": "All Our Broken Parts Playtest"
+  },
+  {
+    "appid": 3970610,
+    "name": "Remnants of War"
   },
   {
     "appid": 3970620,
@@ -1065616,6 +1065788,10 @@
     "name": "Genesis Relic: Idle Sandbox Simulator"
   },
   {
+    "appid": 3972530,
+    "name": "Street Seller Simulator"
+  },
+  {
     "appid": 3972570,
     "name": "Escape Simulator: Spy DLC"
   },
@@ -1065994,6 +1066170,10 @@
   {
     "appid": 3974480,
     "name": "The Girl from Arkanya Soundtrack"
+  },
+  {
+    "appid": 3974490,
+    "name": "Bamorota Defense"
   },
   {
     "appid": 3974510,
@@ -1066864,6 +1067044,10 @@
     "name": "神箭手塔防 Playtest"
   },
   {
+    "appid": 3979270,
+    "name": "Crooked Knobs"
+  },
+  {
     "appid": 3979320,
     "name": "Planetary Strike Playtest"
   },
@@ -1067336,6 +1067520,10 @@
     "name": "The Beautiful World"
   },
   {
+    "appid": 3981840,
+    "name": "Earth Legends"
+  },
+  {
     "appid": 3981850,
     "name": "Loot & Ledger Demo"
   },
@@ -1067462,6 +1067650,10 @@
   {
     "appid": 3982290,
     "name": "Evac Bay 09"
+  },
+  {
+    "appid": 3982310,
+    "name": "ARK: Valguero Ascended"
   },
   {
     "appid": 3982320,
@@ -1068112,6 +1068304,10 @@
     "name": "The Holdouts Playtest"
   },
   {
+    "appid": 3985430,
+    "name": "Angie Magica"
+  },
+  {
     "appid": 3985460,
     "name": "Football Club Manager 26 LIVE"
   },
@@ -1068200,8 +1068396,16 @@
     "name": "Rabidja's Revenge Demo"
   },
   {
+    "appid": 3985760,
+    "name": "Mewseum: Film Festival"
+  },
+  {
     "appid": 3985770,
     "name": "Arrow Spire: Tower Defense"
+  },
+  {
+    "appid": 3985780,
+    "name": "Mewseum: Film Festival Demo"
   },
   {
     "appid": 3985800,
@@ -1068580,6 +1068784,10 @@
     "name": "第一次战役"
   },
   {
+    "appid": 3987800,
+    "name": "The Ghost’s Intimate Cure"
+  },
+  {
     "appid": 3987810,
     "name": "欲望之轮"
   },
@@ -1068626,6 +1068834,10 @@
   {
     "appid": 3988080,
     "name": "Trainz Plus DLC - GWR/BR Private Owner Wagon Pack 1"
+  },
+  {
+    "appid": 3988090,
+    "name": "Remnants of War Demo"
   },
   {
     "appid": 3988100,
@@ -1069120,6 +1069332,10 @@
     "name": "LUCIFERIANISM"
   },
   {
+    "appid": 3990510,
+    "name": "Hop & Seek"
+  },
+  {
     "appid": 3990520,
     "name": "PLAY AND LEARN: Fun Learning Games for Kids"
   },
@@ -1069392,6 +1069608,10 @@
     "name": "Rogum A Cat Match Puzzle"
   },
   {
+    "appid": 3992110,
+    "name": "theHunter: Call of the Wild™ - Game Feeder Pack"
+  },
+  {
     "appid": 3992160,
     "name": "Eggo Demo"
   },
@@ -1069646,6 +1069866,10 @@
   {
     "appid": 3993200,
     "name": "b-e-e-t-l-e: be right back!"
+  },
+  {
+    "appid": 3993220,
+    "name": "TrafficJam - der Stau Simulator"
   },
   {
     "appid": 3993250,
@@ -1070068,6 +1070292,10 @@
     "name": "Awakening of Darkness: Build, Survive and Defend Playtest"
   },
   {
+    "appid": 3995600,
+    "name": "Crooked Knobs Zero (Prologue Demo)"
+  },
+  {
     "appid": 3995630,
     "name": "VizuL 1- DEMO"
   },
@@ -1070462,6 +1070690,10 @@
   {
     "appid": 3997700,
     "name": "Where Is Mommy"
+  },
+  {
+    "appid": 3997710,
+    "name": "Vr4Life Demo"
   },
   {
     "appid": 3997720,
@@ -1071292,6 +1071524,10 @@
     "name": "Back to the South Sea"
   },
   {
+    "appid": 4001620,
+    "name": "Pondemonium"
+  },
+  {
     "appid": 4001630,
     "name": "SOVL - Abyssal Demons"
   },
@@ -1071325,7 +1071561,7 @@
   },
   {
     "appid": 4001750,
-    "name": "ざこのあひる ～メスガキvs鬼ざこ登山～ demo"
+    "name": "ZAKO NO AHIRU Demo"
   },
   {
     "appid": 4001760,
@@ -1072336,6 +1072572,10 @@
     "name": "Druid of Hungwood Demo"
   },
   {
+    "appid": 4006990,
+    "name": "Orion Wars"
+  },
+  {
     "appid": 4007030,
     "name": "Scratch&Nen"
   },
@@ -1072460,10 +1072700,6 @@
     "name": "Undawning: The New Moon"
   },
   {
-    "appid": 4007800,
-    "name": "Wallpaper Live X"
-  },
-  {
     "appid": 4007820,
     "name": "Marisa of Liartop Mountain RD-Sounds Another BGM Soundtrack"
   },
@@ -1072486,6 +1072722,10 @@
   {
     "appid": 4007890,
     "name": "Setuna:Legend of Hamburger 2"
+  },
+  {
+    "appid": 4007920,
+    "name": "Marcel Pagnol et la Source Secrète"
   },
   {
     "appid": 4007940,
@@ -1072884,6 +1073124,10 @@
     "name": "Dragon Song Tavern: Cozy & Adventurous “BreezeoftheSea”DLC"
   },
   {
+    "appid": 4010330,
+    "name": "Sabbatical In Merzouga"
+  },
+  {
     "appid": 4010350,
     "name": "IT LURKS"
   },
@@ -1073200,6 +1073444,10 @@
     "name": "Hive Haven"
   },
   {
+    "appid": 4012130,
+    "name": "Aerial Vanguard Hummingbird Playtest"
+  },
+  {
     "appid": 4012140,
     "name": "Success"
   },
@@ -1073234,6 +1073482,10 @@
   {
     "appid": 4012350,
     "name": "Blind Memory Demo"
+  },
+  {
+    "appid": 4012360,
+    "name": "Sproutmart Alpha Demo"
   },
   {
     "appid": 4012380,
@@ -1073302,6 +1073554,10 @@
   {
     "appid": 4012800,
     "name": "Letters To Arralla Soundtrack"
+  },
+  {
+    "appid": 4012820,
+    "name": "Sabbatical In Merzouga Demo"
   },
   {
     "appid": 4012850,
@@ -1074176,6 +1074432,10 @@
     "name": "The Last Worlds : Crossed Souls Demo"
   },
   {
+    "appid": 4017520,
+    "name": "Netoo"
+  },
+  {
     "appid": 4017530,
     "name": "Starlight Mining Company Demo"
   },
@@ -1074373,7 +1074633,7 @@
   },
   {
     "appid": 4018620,
-    "name": "Tandao AI LTP Demo"
+    "name": "探岛海龟汤 Demo"
   },
   {
     "appid": 4018640,
@@ -1074930,6 +1075190,10 @@
   {
     "appid": 4021760,
     "name": "Blumenia - Historias de un Mundo de Plantas Soundtrack"
+  },
+  {
+    "appid": 4021860,
+    "name": "Final Sentence Demo"
   },
   {
     "appid": 4021920,
@@ -1076104,6 +1076368,14 @@
     "name": "WonderLang Mandarin Chinese"
   },
   {
+    "appid": 4028870,
+    "name": "Les aventures d'Emilie à Paris"
+  },
+  {
+    "appid": 4028890,
+    "name": "Ready-Player-Go!"
+  },
+  {
     "appid": 4028920,
     "name": "Dystopia Girls : Countdown Demo"
   },
@@ -1076372,6 +1076644,10 @@
     "name": "Loot Line - Season 2"
   },
   {
+    "appid": 4030410,
+    "name": "Evil Pongon Game"
+  },
+  {
     "appid": 4030440,
     "name": "三分保平安 Playtest"
   },
@@ -1076413,7 +1076689,7 @@
   },
   {
     "appid": 4030800,
-    "name": "Elena's Temptation of Devoted Service!! Demo"
+    "name": "Elena's Lewd Service Demo"
   },
   {
     "appid": 4030810,
@@ -1076836,6 +1077112,10 @@
     "name": "Dr.Award アワード博士と地下遺跡"
   },
   {
+    "appid": 4033200,
+    "name": "FATHER Demo"
+  },
+  {
     "appid": 4033250,
     "name": "Thief's Shelter Soundtrack"
   },
@@ -1076866,6 +1077146,10 @@
   {
     "appid": 4033420,
     "name": "Chucho"
+  },
+  {
+    "appid": 4033430,
+    "name": "My Peephole: Hotel Harborview"
   },
   {
     "appid": 4033450,
@@ -1076954,6 +1077238,10 @@
   {
     "appid": 4034090,
     "name": "Starshield Demo"
+  },
+  {
+    "appid": 4034100,
+    "name": "Operation Octo Soundtrack"
   },
   {
     "appid": 4034120,
@@ -1077412,6 +1077700,10 @@
     "name": "Ape Drop Playtest"
   },
   {
+    "appid": 4036880,
+    "name": "Motorcycle For Sale Simulator Demo"
+  },
+  {
     "appid": 4036920,
     "name": "Everbrew"
   },
@@ -1077432,8 +1077724,16 @@
     "name": "Seres Universalis:Three Kingdoms Playtest"
   },
   {
+    "appid": 4036980,
+    "name": "D.R.I.F.T."
+  },
+  {
     "appid": 4036990,
     "name": "Takara Cards Soundtrack"
+  },
+  {
+    "appid": 4037020,
+    "name": "AstroCore Mining Playtest"
   },
   {
     "appid": 4037040,
@@ -1078044,6 +1078344,10 @@
     "name": "Poppidemic"
   },
   {
+    "appid": 4040390,
+    "name": "D.R.I.F.T. Demo"
+  },
+  {
     "appid": 4040410,
     "name": "Whiskers, Wizards and Wands Demo"
   },
@@ -1078190,6 +1078494,10 @@
   {
     "appid": 4041060,
     "name": "Jester Party Demo"
+  },
+  {
+    "appid": 4041070,
+    "name": "Fantasy Grounds - Tales of the Valiant - Monster Vault 2"
   },
   {
     "appid": 4041080,
@@ -1078480,6 +1078788,10 @@
     "name": "Astro company"
   },
   {
+    "appid": 4042620,
+    "name": "P.A.N.D.A."
+  },
+  {
     "appid": 4042630,
     "name": "Pinball Dream Demo"
   },
@@ -1078522,6 +1078834,10 @@
   {
     "appid": 4042950,
     "name": "V.START"
+  },
+  {
+    "appid": 4043010,
+    "name": "Just Dismantle"
   },
   {
     "appid": 4043030,
@@ -1078666,10 +1078982,6 @@
   {
     "appid": 4044150,
     "name": "Neon Futa Mecha-Lust Apocalypse Demo"
-  },
-  {
-    "appid": 4044160,
-    "name": "Auto Clicker - Macro"
   },
   {
     "appid": 4044210,
@@ -1078824,10 +1079136,6 @@
     "name": "Tower Crusher"
   },
   {
-    "appid": 4045330,
-    "name": "Crosshair Aim"
-  },
-  {
     "appid": 4045350,
     "name": "Run, cat, RUN!"
   },
@@ -1078890,10 +1079198,6 @@
   {
     "appid": 4045940,
     "name": "Bane and Valor"
-  },
-  {
-    "appid": 4045950,
-    "name": "Fullscreen Borderless Gaming"
   },
   {
     "appid": 4045970,
@@ -1079064,6 +1079368,10 @@
     "name": "Kellan Graves: Fallen Demo"
   },
   {
+    "appid": 4047200,
+    "name": "Monster Hunting Party"
+  },
+  {
     "appid": 4047250,
     "name": "Delta Poly: Block Ops Playtest"
   },
@@ -1079200,6 +1079508,10 @@
     "name": "Flutterdash Demo"
   },
   {
+    "appid": 4048080,
+    "name": "Normis Simulator"
+  },
+  {
     "appid": 4048100,
     "name": "Hello World"
   },
@@ -1079238,6 +1079550,14 @@
   {
     "appid": 4048410,
     "name": "Sudoku online with friends Demo"
+  },
+  {
+    "appid": 4048440,
+    "name": "Loop//Error Demo"
+  },
+  {
+    "appid": 4048460,
+    "name": "Coins Only! Demo"
   },
   {
     "appid": 4048490,
@@ -1079488,6 +1079808,10 @@
     "name": "Steam Revolution: The Age of Rail Demo"
   },
   {
+    "appid": 4049950,
+    "name": "Poua! – Your Pomodoro Buddy &amp;amp; Minimal Desktop Timer Demo"
+  },
+  {
     "appid": 4049960,
     "name": "EchoLink"
   },
@@ -1079614,6 +1079938,10 @@
   {
     "appid": 4050720,
     "name": "INFERIAE Demo"
+  },
+  {
+    "appid": 4050780,
+    "name": "Royal Jest Demo"
   },
   {
     "appid": 4050830,
@@ -1079786,6 +1080114,10 @@
   {
     "appid": 4051750,
     "name": "Shell Soldier Demo"
+  },
+  {
+    "appid": 4051760,
+    "name": "Sea of Mirrors"
   },
   {
     "appid": 4051800,
@@ -1080096,6 +1080428,10 @@
     "name": "Robot Mil"
   },
   {
+    "appid": 4053750,
+    "name": "Irezumi Defenders"
+  },
+  {
     "appid": 4053760,
     "name": "５分間のメイド"
   },
@@ -1080166,6 +1080502,10 @@
   {
     "appid": 4054200,
     "name": "Deliverance Protocol: Ironrot"
+  },
+  {
+    "appid": 4054230,
+    "name": "Kodoktale"
   },
   {
     "appid": 4054260,
@@ -1080344,6 +1080684,10 @@
     "name": "Tetramorph"
   },
   {
+    "appid": 4055620,
+    "name": "Warface: Clutch — Game Time"
+  },
+  {
     "appid": 4055630,
     "name": "How should I keep a house squeaky clean, with a filthy little neighbour ghost? Demo"
   },
@@ -1080464,6 +1080808,10 @@
     "name": "Robot Hospice Demo"
   },
   {
+    "appid": 4056410,
+    "name": "School Anomaly"
+  },
+  {
     "appid": 4056450,
     "name": "勇者"
   },
@@ -1080532,6 +1080880,10 @@
     "name": "Skies Scrapper"
   },
   {
+    "appid": 4057090,
+    "name": "Skies Scrapper Playtest"
+  },
+  {
     "appid": 4057140,
     "name": "Lazy Jiangshi Demo"
   },
@@ -1080546,6 +1080898,14 @@
   {
     "appid": 4057390,
     "name": "地球寄生：筒仓 Demo"
+  },
+  {
+    "appid": 4057400,
+    "name": "Orbital Survivor"
+  },
+  {
+    "appid": 4057420,
+    "name": "Ground Zero Demo"
   },
   {
     "appid": 4057460,
@@ -1080578,6 +1080938,10 @@
   {
     "appid": 4057650,
     "name": "Digging Together Demo"
+  },
+  {
+    "appid": 4057670,
+    "name": "The Midnighters"
   },
   {
     "appid": 4057680,
@@ -1080676,6 +1081040,10 @@
     "name": "Fear The Reaper Playtest"
   },
   {
+    "appid": 4058240,
+    "name": "Shroud of Gloom Demo"
+  },
+  {
     "appid": 4058260,
     "name": "Block States"
   },
@@ -1080734,6 +1081102,10 @@
   {
     "appid": 4058460,
     "name": "Sexy Furry - Sheep Furry Idol DLC"
+  },
+  {
+    "appid": 4058480,
+    "name": "Sexy Furry - Wolf Furry Idol DLC"
   },
   {
     "appid": 4058490,
@@ -1080908,6 +1081280,10 @@
     "name": "Train Station Simulator: Together in Japan Demo"
   },
   {
+    "appid": 4059060,
+    "name": "Tinkers Ascent Demo"
+  },
+  {
     "appid": 4059170,
     "name": "Rest Area Simulator Demo"
   },
@@ -1080978,6 +1081354,10 @@
   {
     "appid": 4059790,
     "name": "Anna & Emma"
+  },
+  {
+    "appid": 4059830,
+    "name": "Virus Brain"
   },
   {
     "appid": 4059910,
@@ -1081164,6 +1081544,10 @@
     "name": "ELECTION DAY!!! Demo"
   },
   {
+    "appid": 4061220,
+    "name": "Short Circuit"
+  },
+  {
     "appid": 4061230,
     "name": "Ardena Demo"
   },
@@ -1081186,6 +1081570,10 @@
   {
     "appid": 4061310,
     "name": "The Deafening"
+  },
+  {
+    "appid": 4061330,
+    "name": "Short Circuit Demo"
   },
   {
     "appid": 4061380,
@@ -1081412,6 +1081800,10 @@
     "name": "SCUM Base Building Decor Pack"
   },
   {
+    "appid": 4062880,
+    "name": "Parking Garage Simulator Demo"
+  },
+  {
     "appid": 4063040,
     "name": "The Unplace Demo"
   },
@@ -1081468,6 +1081860,10 @@
     "name": "Chronosurge: Echoes of the Void"
   },
   {
+    "appid": 4063710,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Undead 04"
+  },
+  {
     "appid": 4063720,
     "name": "Sesh-On Demo"
   },
@@ -1081506,6 +1081902,22 @@
   {
     "appid": 4063890,
     "name": "Anime Dream Match: Horses"
+  },
+  {
+    "appid": 4063930,
+    "name": "Monster Hunting Party Demo"
+  },
+  {
+    "appid": 4063940,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Swamp Denizens 01"
+  },
+  {
+    "appid": 4063970,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Monstrosity 01"
+  },
+  {
+    "appid": 4063980,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Beast 01"
   },
   {
     "appid": 4064000,
@@ -1081588,6 +1082000,10 @@
     "name": "From The Dark Demo"
   },
   {
+    "appid": 4064650,
+    "name": "地牢饿徒 Playtest"
+  },
+  {
     "appid": 4064680,
     "name": "Omusubikororin KURENAI Demo"
   },
@@ -1081626,6 +1082042,10 @@
   {
     "appid": 4064840,
     "name": "Lumara Demo"
+  },
+  {
+    "appid": 4064880,
+    "name": "Papuan Dominatrixes Are the Best"
   },
   {
     "appid": 4064920,
@@ -1081728,6 +1082148,10 @@
     "name": "Wrath and Retribution Demo"
   },
   {
+    "appid": 4065790,
+    "name": "Choo Choo Defenders"
+  },
+  {
     "appid": 4065820,
     "name": "Iceburg Demo"
   },
@@ -1081758,6 +1082182,10 @@
   {
     "appid": 4066230,
     "name": "Solnest Demo"
+  },
+  {
+    "appid": 4066290,
+    "name": "WTC : The Manchester Report"
   },
   {
     "appid": 4066300,
@@ -1081802,6 +1082230,10 @@
   {
     "appid": 4066480,
     "name": "Hemobloom Playtest"
+  },
+  {
+    "appid": 4066570,
+    "name": "Half Faith Tower"
   },
   {
     "appid": 4066600,
@@ -1081904,6 +1082336,10 @@
     "name": "Memo to the Underlord Demo"
   },
   {
+    "appid": 4067380,
+    "name": "Together with Tiger Girl"
+  },
+  {
     "appid": 4067390,
     "name": "LuminousStoria"
   },
@@ -1081984,6 +1082420,10 @@
     "name": "Xeno Girlfriend"
   },
   {
+    "appid": 4068270,
+    "name": "Rainbow Chickens"
+  },
+  {
     "appid": 4068330,
     "name": "Esports Team Manager Demo"
   },
@@ -1081996,12 +1082436,20 @@
     "name": "Spirit Guide"
   },
   {
+    "appid": 4068420,
+    "name": "Who Summoned It? Demo"
+  },
+  {
     "appid": 4068460,
     "name": "Survive: The Alien Tracing Demo"
   },
   {
     "appid": 4068480,
     "name": "Cascadou Playtest"
+  },
+  {
+    "appid": 4068530,
+    "name": "Clomper Playtest"
   },
   {
     "appid": 4068550,
@@ -1082092,6 +1082540,10 @@
     "name": "Hexachess Demo"
   },
   {
+    "appid": 4068970,
+    "name": "Clerks and Quirks Playtest"
+  },
+  {
     "appid": 4068980,
     "name": "Beach Life Simulator"
   },
@@ -1082128,6 +1082580,10 @@
     "name": "Heavy Burden VR Demo"
   },
   {
+    "appid": 4069310,
+    "name": "Kodoktale Demo"
+  },
+  {
     "appid": 4069320,
     "name": "Rogue Melee Demo"
   },
@@ -1082142,6 +1082598,10 @@
   {
     "appid": 4069430,
     "name": "Pro Wrestling Manager Demo"
+  },
+  {
+    "appid": 4069440,
+    "name": "Boundy Demo"
   },
   {
     "appid": 4069450,
@@ -1082170,6 +1082630,10 @@
   {
     "appid": 4069700,
     "name": "TEKO Demo"
+  },
+  {
+    "appid": 4069800,
+    "name": "Global Conflict Blue: Horizon"
   },
   {
     "appid": 4069820,
@@ -1082212,6 +1082676,10 @@
     "name": "AIgent Demo"
   },
   {
+    "appid": 4070120,
+    "name": "STREAM Demo"
+  },
+  {
     "appid": 4070130,
     "name": "Be the Block Playtest"
   },
@@ -1082234,6 +1082702,10 @@
   {
     "appid": 4070280,
     "name": "Traitor's Kitchen Playtest"
+  },
+  {
+    "appid": 4070290,
+    "name": "Celestial Anomalies"
   },
   {
     "appid": 4070300,
@@ -1082280,6 +1082752,10 @@
     "name": "SOS (Save Our Ship) Demo"
   },
   {
+    "appid": 4070530,
+    "name": "Abyss Lord Demo"
+  },
+  {
     "appid": 4070560,
     "name": "Crimson Furnace"
   },
@@ -1082296,6 +1082772,14 @@
     "name": "Mary's House"
   },
   {
+    "appid": 4070980,
+    "name": "By The Orchid Playtest"
+  },
+  {
+    "appid": 4071050,
+    "name": "SnailMail"
+  },
+  {
     "appid": 4071100,
     "name": "早苗の信仰王への道"
   },
@@ -1082306,6 +1082790,14 @@
   {
     "appid": 4071130,
     "name": "My name is... Demo"
+  },
+  {
+    "appid": 4071210,
+    "name": "LoveR Kiss Endless Memories Demo"
+  },
+  {
+    "appid": 4071230,
+    "name": "Memory Draw"
   },
   {
     "appid": 4071250,
@@ -1082364,12 +1082856,28 @@
     "name": "Wolf with Inn Demo"
   },
   {
+    "appid": 4071990,
+    "name": "KACAU"
+  },
+  {
+    "appid": 4072020,
+    "name": "Welcome To... Chichester OVN Omnibus"
+  },
+  {
+    "appid": 4072140,
+    "name": "Cosmo Knight Zion - Original Soundtrack - DLC"
+  },
+  {
     "appid": 4072200,
     "name": "矮人炮弹 Dwarven Cannonball"
   },
   {
     "appid": 4072210,
     "name": "PITANIE"
+  },
+  {
+    "appid": 4072300,
+    "name": "Miiridian Prime"
   },
   {
     "appid": 4072370,
@@ -1082382,6 +1082890,10 @@
   {
     "appid": 4072460,
     "name": "Crownguard"
+  },
+  {
+    "appid": 4072490,
+    "name": "Escape the Void Playtest"
   },
   {
     "appid": 4072530,
@@ -1082410,6 +1082922,10 @@
   {
     "appid": 4072910,
     "name": "Allen Demo"
+  },
+  {
+    "appid": 4072950,
+    "name": "Exile Protocol Demo"
   },
   {
     "appid": 4072990,
@@ -1082476,12 +1082992,24 @@
     "name": "Lawn Care Simulator Demo"
   },
   {
+    "appid": 4073980,
+    "name": "The Doppel Demo"
+  },
+  {
     "appid": 4074030,
     "name": "UNSEEN LAND Demo"
   },
   {
     "appid": 4074090,
     "name": "Shitty Game Demo"
+  },
+  {
+    "appid": 4074130,
+    "name": "The Three Moons Demo"
+  },
+  {
+    "appid": 4074200,
+    "name": "Weasel Wes's Cycling Simulator Demo"
   },
   {
     "appid": 4074230,
@@ -1082500,8 +1083028,16 @@
     "name": "Black Jacket Playtest"
   },
   {
+    "appid": 4074780,
+    "name": "Hover Point"
+  },
+  {
     "appid": 4074880,
     "name": "Pixel Survivors : Defense Demo"
+  },
+  {
+    "appid": 4074940,
+    "name": "My Hidden Journey"
   },
   {
     "appid": 4074960,
@@ -1082536,6 +1083072,10 @@
     "name": "Trolley Time Demo"
   },
   {
+    "appid": 4075110,
+    "name": "Classic Blackjack"
+  },
+  {
     "appid": 4075260,
     "name": "Weabot"
   },
@@ -1082560,6 +1083100,10 @@
     "name": "Haunted: Village Demo"
   },
   {
+    "appid": 4075610,
+    "name": "Dung Battles"
+  },
+  {
     "appid": 4075760,
     "name": "Ropeat Demo"
   },
@@ -1082582,6 +1083126,10 @@
   {
     "appid": 4076060,
     "name": "8AM: The Office"
+  },
+  {
+    "appid": 4076070,
+    "name": "Frontline: Afrika Korps"
   },
   {
     "appid": 4076150,
@@ -1082614,6 +1083162,10 @@
   {
     "appid": 4076580,
     "name": "The Three Moons Playtest"
+  },
+  {
+    "appid": 4076610,
+    "name": "Galaxy Hassle Demo"
   },
   {
     "appid": 4076810,
@@ -1082652,12 +1083204,20 @@
     "name": "Six Sides Under"
   },
   {
+    "appid": 4077470,
+    "name": "Revolve Playtest"
+  },
+  {
     "appid": 4077520,
     "name": "Shifting Chambers Demo"
   },
   {
     "appid": 4077540,
     "name": "Obelus Manor Demo"
+  },
+  {
+    "appid": 4077620,
+    "name": "Blunderworld Demo"
   },
   {
     "appid": 4077800,
@@ -1082672,12 +1083232,20 @@
     "name": "À La Mine Demo"
   },
   {
+    "appid": 4078180,
+    "name": "Xeno Girlfriend 4"
+  },
+  {
     "appid": 4078270,
     "name": "Laundering Simulator Demo"
   },
   {
     "appid": 4078320,
     "name": "Christmas Soul Demo"
+  },
+  {
+    "appid": 4078410,
+    "name": "Europe2999"
   },
   {
     "appid": 4078440,
@@ -1082690,6 +1083258,10 @@
   {
     "appid": 4078610,
     "name": "Drop Dead: The Cabin Demo"
+  },
+  {
+    "appid": 4078770,
+    "name": "Hentai Tanvi"
   },
   {
     "appid": 4078810,
@@ -1082712,6 +1083284,10 @@
     "name": "Ghost Hunter Simulator Demo"
   },
   {
+    "appid": 4079130,
+    "name": "Ghetto Zombies - Graffiti Squad Playtest"
+  },
+  {
     "appid": 4079230,
     "name": "Samurai Battle Royale Pinball"
   },
@@ -1082720,12 +1083296,28 @@
     "name": "Mech Shop Demo"
   },
   {
+    "appid": 4079270,
+    "name": "Bililitz"
+  },
+  {
+    "appid": 4079400,
+    "name": "The Masked Vengeance: Chapter 1"
+  },
+  {
     "appid": 4079430,
     "name": "ScrapBots"
   },
   {
+    "appid": 4079560,
+    "name": "Around the Block"
+  },
+  {
     "appid": 4079670,
     "name": "Obakenori Demo"
+  },
+  {
+    "appid": 4079720,
+    "name": "AsteroidMiner (Working Title) Playtest"
   },
   {
     "appid": 4079740,
@@ -1082740,8 +1083332,16 @@
     "name": "Smash Out Colony Demo"
   },
   {
+    "appid": 4080040,
+    "name": "Arcane Rivals Demo"
+  },
+  {
     "appid": 4080180,
     "name": "Pochard Jamie Soundtrack"
+  },
+  {
+    "appid": 4080310,
+    "name": "Wall Street Raider Playtest"
   },
   {
     "appid": 4080340,
@@ -1082752,8 +1083352,20 @@
     "name": "Stufft TD Demo"
   },
   {
+    "appid": 4080480,
+    "name": "IWA Retro Adventure"
+  },
+  {
     "appid": 4080510,
     "name": "The Corn Maze: Rebirth Demo"
+  },
+  {
+    "appid": 4080540,
+    "name": "Floorball League 2010 - Editor"
+  },
+  {
+    "appid": 4080900,
+    "name": "Neon Blade"
   },
   {
     "appid": 4080910,
@@ -1082762,6 +1083374,14 @@
   {
     "appid": 4080990,
     "name": "Deadly Delivery Demo"
+  },
+  {
+    "appid": 4081110,
+    "name": "Mycopsychosys: Project Jupiter Demo"
+  },
+  {
+    "appid": 4081250,
+    "name": "OAX Demo"
   },
   {
     "appid": 4081320,
@@ -1082784,12 +1083404,32 @@
     "name": "Astro Nova Demo"
   },
   {
+    "appid": 4081880,
+    "name": "ReThink | Evolved Free"
+  },
+  {
     "appid": 4081920,
     "name": "Demon with a Pickaxe Demo"
   },
   {
+    "appid": 4081950,
+    "name": "Cold Steel Demo"
+  },
+  {
+    "appid": 4082000,
+    "name": "Knigths &amp;amp; Towers Demo"
+  },
+  {
     "appid": 4082050,
     "name": "AshBall Demo"
+  },
+  {
+    "appid": 4082110,
+    "name": "Nonogos Demo"
+  },
+  {
+    "appid": 4082250,
+    "name": "Don't Look! Demo"
   },
   {
     "appid": 4082330,
@@ -1082812,12 +1083452,24 @@
     "name": "Stellar Archipelago Demo"
   },
   {
+    "appid": 4082580,
+    "name": "Vectoraid"
+  },
+  {
     "appid": 4082880,
     "name": "Many Mini Typing Games Demo"
   },
   {
+    "appid": 4082900,
+    "name": "castle ilder"
+  },
+  {
     "appid": 4083030,
     "name": "Square Game Demo"
+  },
+  {
+    "appid": 4083360,
+    "name": "Null Transit Demo"
   },
   {
     "appid": 4083480,
@@ -1082836,8 +1083488,16 @@
     "name": "Toy Zombies Demo"
   },
   {
+    "appid": 4084000,
+    "name": "Dungeon Forge Demo"
+  },
+  {
     "appid": 4084090,
     "name": "Rancher: A new life Demo"
+  },
+  {
+    "appid": 4084210,
+    "name": "Castella Demo"
   },
   {
     "appid": 4084410,
@@ -1082846,6 +1083506,14 @@
   {
     "appid": 4084850,
     "name": "Dead By Headshot Demo"
+  },
+  {
+    "appid": 4085870,
+    "name": "Mr. Cloak Demo"
+  },
+  {
+    "appid": 4085990,
+    "name": "猎魔骑士 Demo"
   },
   {
     "appid": 4086850,
@@ -1082860,6 +1083528,10 @@
     "name": "VEILBORN Demo"
   },
   {
+    "appid": 4087280,
+    "name": "Campsite Hustle Demo"
+  },
+  {
     "appid": 4087810,
     "name": "MEAT MAN Demo"
   },
@@ -1082872,7 +1083544,31 @@
     "name": "Atrium Mortis Demo"
   },
   {
+    "appid": 4089100,
+    "name": "Astrolite Demo"
+  },
+  {
     "appid": 4089420,
     "name": "Feed the Lie Demo"
+  },
+  {
+    "appid": 4090510,
+    "name": "Ticking Together Demo"
+  },
+  {
+    "appid": 4090870,
+    "name": "SeekOut Demo"
+  },
+  {
+    "appid": 4091190,
+    "name": "Pencil Stories Demo"
+  },
+  {
+    "appid": 4091200,
+    "name": "Insomnia: Chapter One Demo"
+  },
+  {
+    "appid": 4095690,
+    "name": "ValveTestApp4095690"
   }
 ]
