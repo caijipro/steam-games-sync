@@ -264676,10 +264676,6 @@
     "name": "Flyeeex"
   },
   {
-    "appid": 1064920,
-    "name": "VR Party Pack"
-  },
-  {
     "appid": 1064950,
     "name": "FluidLander"
   },
@@ -555980,10 +555976,6 @@
     "name": "Land of the Mage Lords"
   },
   {
-    "appid": 2069240,
-    "name": "Little Wing"
-  },
-  {
     "appid": 2069250,
     "name": "High On Life 2"
   },
@@ -590468,10 +590460,6 @@
     "name": "Dear Friend"
   },
   {
-    "appid": 2186460,
-    "name": "kill or dead"
-  },
-  {
     "appid": 2186470,
     "name": "FlowDim05 Playtest"
   },
@@ -601672,10 +601660,6 @@
     "name": "Wonderputt Forever Soundtrack"
   },
   {
-    "appid": 2225060,
-    "name": "black idea"
-  },
-  {
     "appid": 2225070,
     "name": "Trackmania"
   },
@@ -610721,7 +610705,7 @@
   },
   {
     "appid": 2256350,
-    "name": "Spectral Possession"
+    "name": "Phantom Pursuit"
   },
   {
     "appid": 2256360,
@@ -668329,7 +668313,7 @@
   },
   {
     "appid": 2453950,
-    "name": "MACHINES OF MADNESS"
+    "name": "Rogue Machina"
   },
   {
     "appid": 2453970,
@@ -684080,10 +684064,6 @@
     "name": "Monstabox"
   },
   {
-    "appid": 2511740,
-    "name": "Bespoken"
-  },
-  {
     "appid": 2511750,
     "name": "Don't Drown Demo"
   },
@@ -698637,7 +698617,7 @@
   },
   {
     "appid": 2566410,
-    "name": "GameGuru MAX Cyberpunk Asset Pack - HUD's"
+    "name": "MAX Cyberpunk HUDs"
   },
   {
     "appid": 2566430,
@@ -708981,7 +708961,7 @@
   },
   {
     "appid": 2605740,
-    "name": "GameGuru MAX Nature Booster Pack - Lost Caverns"
+    "name": "MAX Lost Caverns"
   },
   {
     "appid": 2605750,
@@ -714977,11 +714957,11 @@
   },
   {
     "appid": 2626790,
-    "name": "GameGuru MAX Modern Day Booster Pack - Industrial Sewers"
+    "name": "MAX Industrial Sewers"
   },
   {
     "appid": 2626800,
-    "name": "GameGuru MAX Modern Day Booster Pack - Cold War Bunker"
+    "name": "MAX Cold War Bunker"
   },
   {
     "appid": 2626830,
@@ -766920,6 +766900,10 @@
     "name": "Spy 1 Lovecraftian"
   },
   {
+    "appid": 2820050,
+    "name": "Star Shift Rebellion Soundtrack"
+  },
+  {
     "appid": 2820060,
     "name": "Preface: Undiscovered World"
   },
@@ -767958,10 +767942,6 @@
   {
     "appid": 2823840,
     "name": "Killer Junkyard"
-  },
-  {
-    "appid": 2823850,
-    "name": "Worst Idea"
   },
   {
     "appid": 2823860,
@@ -780857,11 +780837,11 @@
   },
   {
     "appid": 2873350,
-    "name": "GameGuru MAX Modern Day Mini Kit - Abandoned Playground"
+    "name": "MAX Abandoned Playground"
   },
   {
     "appid": 2873360,
-    "name": "GameGuru MAX Wasteland Mini Kit - Slum Town"
+    "name": "MAX Slum Town"
   },
   {
     "appid": 2873370,
@@ -780873,11 +780853,11 @@
   },
   {
     "appid": 2873390,
-    "name": "GameGuru MAX Far Future Booster Pack - Industrial Slum"
+    "name": "MAX Industrial Slum"
   },
   {
     "appid": 2873400,
-    "name": "GameGuru MAX Steampunk Booster Pack - Industry"
+    "name": "MAX Steampunk Industry"
   },
   {
     "appid": 2873410,
@@ -782053,7 +782033,7 @@
   },
   {
     "appid": 2877510,
-    "name": "GameGuru MAX Modern Day Asset Pack - Posters and Propaganda"
+    "name": "MAX Posters and Propaganda"
   },
   {
     "appid": 2877520,
@@ -790689,7 +790669,7 @@
   },
   {
     "appid": 2910660,
-    "name": "GameGuru MAX Fantasy Booster Pack - Medieval Melee Weapons"
+    "name": "MAX Medieval Melee Weapons"
   },
   {
     "appid": 2910670,
@@ -790877,7 +790857,7 @@
   },
   {
     "appid": 2911300,
-    "name": "GameGuru MAX Fantasy Booster Pack - Creepy Crawlies"
+    "name": "MAX Creepy Crawlies"
   },
   {
     "appid": 2911310,
@@ -796573,23 +796553,23 @@
   },
   {
     "appid": 2933010,
-    "name": "GameGuru MAX Low Poly Mini Kit - Undead Quarry"
+    "name": "MAX Low Poly Undead Quarry"
   },
   {
     "appid": 2933020,
-    "name": "GameGuru MAX Low Poly Asset Pack - Desert Outpost"
+    "name": "MAX Low Poly Desert Outpost"
   },
   {
     "appid": 2933030,
-    "name": "GameGuru MAX Low Poly Asset Pack - Far East Outpost"
+    "name": "MAX Low Poly Far East Outpost"
   },
   {
     "appid": 2933040,
-    "name": "GameGuru MAX Low Poly Mini Kit - Goblin Camp"
+    "name": "MAX Low Poly Goblin Camp"
   },
   {
     "appid": 2933050,
-    "name": "GameGuru MAX Low Poly Asset Pack - Arcanist's Labratory"
+    "name": "MAX Low Poly Arcanist's Laboratory"
   },
   {
     "appid": 2933060,
@@ -813917,11 +813897,11 @@
   },
   {
     "appid": 2996440,
-    "name": "GameGuru MAX Horror Booster Pack - The Sounds of Terror"
+    "name": "MAX Sounds of Terror"
   },
   {
     "appid": 2996450,
-    "name": "GameGuru MAX Far Future Booster Pack - Robotic Critters"
+    "name": "MAX Robotic Critters"
   },
   {
     "appid": 2996460,
@@ -829505,7 +829485,7 @@
   },
   {
     "appid": 3052750,
-    "name": "GameGuru MAX Far Future Asset Pack - HUD's"
+    "name": "MAX Far Future HUDs"
   },
   {
     "appid": 3052760,
@@ -830045,7 +830025,7 @@
   },
   {
     "appid": 3054640,
-    "name": "GameGuru MAX Fantasy Audio Booster Pack - The Sounds of the Arcane"
+    "name": "MAX Sounds of the Arcane"
   },
   {
     "appid": 3054670,
@@ -856789,7 +856769,7 @@
   },
   {
     "appid": 3156140,
-    "name": "GameGuru MAX Low Poly Gift Kit - Swordmasters Arsenal"
+    "name": "MAX Low Poly Swordmasters Arsenal"
   },
   {
     "appid": 3156160,
@@ -867889,7 +867869,7 @@
   },
   {
     "appid": 3196920,
-    "name": "GameGuru MAX Horror Mini Kit - Old Furniture"
+    "name": " MAX Old Furniture"
   },
   {
     "appid": 3196940,
@@ -883092,6 +883072,10 @@
     "name": "GUG Playtest"
   },
   {
+    "appid": 3252220,
+    "name": "Haunt Hunter"
+  },
+  {
     "appid": 3252230,
     "name": "Cat Test Lab : Multiplayer Contest Arena Demo"
   },
@@ -883574,6 +883558,10 @@
   {
     "appid": 3254050,
     "name": "The Black Ice"
+  },
+  {
+    "appid": 3254070,
+    "name": "Exit Zone Demo"
   },
   {
     "appid": 3254080,
@@ -893277,7 +893265,7 @@
   },
   {
     "appid": 3287910,
-    "name": "GameGuru MAX Horror Asset Pack - Madman's Melee Weapons"
+    "name": "MAX Madman's Melee Weapons"
   },
   {
     "appid": 3287930,
@@ -894093,7 +894081,7 @@
   },
   {
     "appid": 3290700,
-    "name": "GameGuru MAX Modern Day Booster Pack - Old Mine"
+    "name": "MAX Old Mines"
   },
   {
     "appid": 3290710,
@@ -906429,7 +906417,7 @@
   },
   {
     "appid": 3338770,
-    "name": "GameGuru MAX Modern Day Asset Pack - Household Weapons"
+    "name": "MAX Household Weapons"
   },
   {
     "appid": 3338790,
@@ -910204,6 +910192,10 @@
     "name": "Heather Wreath: The Reporter"
   },
   {
+    "appid": 3353040,
+    "name": "Chair-Riot"
+  },
+  {
     "appid": 3353050,
     "name": "Base Defense"
   },
@@ -911625,7 +911617,7 @@
   },
   {
     "appid": 3358180,
-    "name": "GameGuru MAX Modern Day Mini Kit - Abandoned Hospital"
+    "name": "MAX Abandoned Hospital"
   },
   {
     "appid": 3358190,
@@ -924124,18 +924116,6 @@
     "name": "プロトリジゲン: サウンドトラック + アートブック"
   },
   {
-    "appid": 3404740,
-    "name": "MICROVOLTS: Recharged - 2024 WINTER SEASON Starter Pack : Platinum"
-  },
-  {
-    "appid": 3404750,
-    "name": "MICROVOLTS: Recharged - 2024 WINTER SEASON Starter Pack : Gold"
-  },
-  {
-    "appid": 3404760,
-    "name": "MICROVOLTS: Recharged - 2024 WINTER SEASON Starter Pack : Silver"
-  },
-  {
     "appid": 3404770,
     "name": "奇华幻相"
   },
@@ -925277,7 +925257,7 @@
   },
   {
     "appid": 3409400,
-    "name": "GameGuru MAX Low Poly Gift Kit - Quartermasters Arsenal"
+    "name": "MAX Low Poly Quartermasters Arsenal"
   },
   {
     "appid": 3409410,
@@ -925902,6 +925882,10 @@
   {
     "appid": 3411730,
     "name": "Desktop Fishing"
+  },
+  {
+    "appid": 3411740,
+    "name": "Roadsters Odyssey"
   },
   {
     "appid": 3411750,
@@ -952245,7 +952229,7 @@
   },
   {
     "appid": 3510950,
-    "name": "GameGuru MAX Far Future Booster Pack - Warriors of the Future"
+    "name": "MAX Warriors of the Future"
   },
   {
     "appid": 3510960,
@@ -964518,18 +964502,6 @@
   {
     "appid": 3557490,
     "name": "YVY Playtest"
-  },
-  {
-    "appid": 3557500,
-    "name": "MICROVOLTS: Recharged - 2025 SPRING SEASON Starter Pack : Platinum"
-  },
-  {
-    "appid": 3557510,
-    "name": "MICROVOLTS: Recharged - 2025 SPRING SEASON Starter Pack : Gold"
-  },
-  {
-    "appid": 3557520,
-    "name": "MICROVOLTS: Recharged - 2025 SPRING SEASON Starter Pack : Silver"
   },
   {
     "appid": 3557530,
@@ -990788,10 +990760,6 @@
     "name": "Tape Us Out"
   },
   {
-    "appid": 3661840,
-    "name": "一個普通的俯視角射擊遊戲"
-  },
-  {
     "appid": 3661870,
     "name": "Standard Procedures Playtest"
   },
@@ -998998,6 +998966,10 @@
   {
     "appid": 3692120,
     "name": "BubbleByte Demo"
+  },
+  {
+    "appid": 3692130,
+    "name": "5x30 Arc: How I Rizzed the Gym Baddies"
   },
   {
     "appid": 3692140,
@@ -1012500,6 +1012472,10 @@
     "name": "A Rayuela Game"
   },
   {
+    "appid": 3744380,
+    "name": "Sexy Beaches"
+  },
+  {
     "appid": 3744390,
     "name": "Office Sirens Hard at Work Demo"
   },
@@ -1019722,6 +1019698,10 @@
   {
     "appid": 3772480,
     "name": "Milf Collection"
+  },
+  {
+    "appid": 3772520,
+    "name": "Untold Winter Demo"
   },
   {
     "appid": 3772530,
@@ -1031968,6 +1031948,10 @@
     "name": "Knock On The Occult Door"
   },
   {
+    "appid": 3821430,
+    "name": "Marshmallow Land: Definitive Edition Demo"
+  },
+  {
     "appid": 3821460,
     "name": "Quest & Quarrel - A Tavern Adventure Playtest"
   },
@@ -1034218,18 +1034202,6 @@
   {
     "appid": 3830980,
     "name": "Horny Farm"
-  },
-  {
-    "appid": 3830990,
-    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Platinum"
-  },
-  {
-    "appid": 3831000,
-    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Gold"
-  },
-  {
-    "appid": 3831010,
-    "name": "MICROVOLTS: Recharged - 2025 SUMMER SEASON Starter Pack : Silver"
   },
   {
     "appid": 3831030,
@@ -1041498,6 +1041470,10 @@
   {
     "appid": 3861510,
     "name": "UGOMEKU NOTE"
+  },
+  {
+    "appid": 3861520,
+    "name": "Gather CCG"
   },
   {
     "appid": 3861550,
@@ -1049004,6 +1048980,10 @@
     "name": "百日任期"
   },
   {
+    "appid": 3892230,
+    "name": "Slums: Urban Defence"
+  },
+  {
     "appid": 3892240,
     "name": "Hundred Doors"
   },
@@ -1049326,6 +1049306,10 @@
   {
     "appid": 3893710,
     "name": "Dream City Demo"
+  },
+  {
+    "appid": 3893720,
+    "name": "Entrée Dungeon"
   },
   {
     "appid": 3893730,
@@ -1050718,6 +1050702,10 @@
   {
     "appid": 3899890,
     "name": "NOVA"
+  },
+  {
+    "appid": 3899910,
+    "name": "Gambling Legacy Playtest"
   },
   {
     "appid": 3899920,
@@ -1055776,6 +1055764,10 @@
     "name": "RACCOIN: Coin Pusher Roguelike Playtest"
   },
   {
+    "appid": 3921920,
+    "name": "Discarded"
+  },
+  {
     "appid": 3921940,
     "name": "ProtoBlue"
   },
@@ -1056314,6 +1056306,10 @@
   {
     "appid": 3924050,
     "name": "GB BASIC - Desktop Builder"
+  },
+  {
+    "appid": 3924060,
+    "name": "Plastic Lust"
   },
   {
     "appid": 3924070,
@@ -1057342,6 +1057338,10 @@
   {
     "appid": 3928300,
     "name": "Mirelaine"
+  },
+  {
+    "appid": 3928310,
+    "name": "Salt VS Pepper"
   },
   {
     "appid": 3928320,
@@ -1062336,6 +1062336,10 @@
     "name": "Ooble Gardens"
   },
   {
+    "appid": 3949800,
+    "name": "Ardor for Depravity Demo"
+  },
+  {
     "appid": 3949850,
     "name": "Fallen Demo"
   },
@@ -1063478,6 +1063482,10 @@
   {
     "appid": 3954590,
     "name": "Never Mourn Art Book"
+  },
+  {
+    "appid": 3954600,
+    "name": "Proto Trigger"
   },
   {
     "appid": 3954610,
@@ -1066108,6 +1066116,10 @@
     "name": "Paper Department"
   },
   {
+    "appid": 3966350,
+    "name": "崩壊世界のナヴィガトーレ"
+  },
+  {
     "appid": 3966360,
     "name": "After School Grounds"
   },
@@ -1066846,6 +1066858,10 @@
   {
     "appid": 3969640,
     "name": "Penance"
+  },
+  {
+    "appid": 3969680,
+    "name": "Abyssal Acres Playtest"
   },
   {
     "appid": 3969700,
@@ -1068526,10 +1068542,6 @@
   {
     "appid": 3977820,
     "name": "PacSO"
-  },
-  {
-    "appid": 3977830,
-    "name": "The Cowardly Pig"
   },
   {
     "appid": 3977840,
@@ -1074880,6 +1074892,10 @@
     "name": "My Ex-future Family: Twists of Fate"
   },
   {
+    "appid": 4007650,
+    "name": "DragonTigerParty"
+  },
+  {
     "appid": 4007660,
     "name": "JASON, Coming of Age - NSFW Realism Pack"
   },
@@ -1079584,6 +1079600,10 @@
     "name": "Final Strategy"
   },
   {
+    "appid": 4032110,
+    "name": "Bloomsome"
+  },
+  {
     "appid": 4032120,
     "name": "Lucky Shelter Demo"
   },
@@ -1080076,6 +1080096,10 @@
     "name": "Banished Souls Playtest"
   },
   {
+    "appid": 4034640,
+    "name": "Th3_M1dday_L4dies"
+  },
+  {
     "appid": 4034680,
     "name": "MY WIFE IS A MAID"
   },
@@ -1080492,6 +1080516,10 @@
     "name": "Shell Divers"
   },
   {
+    "appid": 4036540,
+    "name": "Succubless"
+  },
+  {
     "appid": 4036570,
     "name": "LivingBattle Rugby Office Worker"
   },
@@ -1080706,6 +1080734,10 @@
   {
     "appid": 4037560,
     "name": "Operation Anatolia"
+  },
+  {
+    "appid": 4037580,
+    "name": "Whimsy Koi"
   },
   {
     "appid": 4037590,
@@ -1081856,6 +1081888,10 @@
     "name": "Ogre Chambers 2222 Demo"
   },
   {
+    "appid": 4042720,
+    "name": "Disguiser Playtest"
+  },
+  {
     "appid": 4042760,
     "name": "IL-2 Sturmovik: Hornet's Nest Campaign"
   },
@@ -1081922,6 +1081958,14 @@
   {
     "appid": 4043060,
     "name": "Magic Regrowth Demo"
+  },
+  {
+    "appid": 4043070,
+    "name": "Helgnar The Conqueror"
+  },
+  {
+    "appid": 4043090,
+    "name": "Build Battle Playtest"
   },
   {
     "appid": 4043100,
@@ -1082608,6 +1082652,10 @@
     "name": "Monster Hunting Party"
   },
   {
+    "appid": 4047240,
+    "name": "Drone Soccer Playtest"
+  },
+  {
     "appid": 4047250,
     "name": "Delta Poly: Block Ops Playtest"
   },
@@ -1082802,6 +1082850,10 @@
   {
     "appid": 4048130,
     "name": "Grave Whisperers Demo"
+  },
+  {
+    "appid": 4048170,
+    "name": "Marble Mirage"
   },
   {
     "appid": 4048190,
@@ -1083654,6 +1083706,10 @@
   {
     "appid": 4052600,
     "name": "PYRODEMO"
+  },
+  {
+    "appid": 4052610,
+    "name": "Light-Space Love: New Horizons"
   },
   {
     "appid": 4052620,
@@ -1084560,6 +1084616,10 @@
     "name": "Ground Zero Demo"
   },
   {
+    "appid": 4057440,
+    "name": "Tap 4 Sex 2"
+  },
+  {
     "appid": 4057460,
     "name": "Cardopolis Demo"
   },
@@ -1085098,6 +1085158,10 @@
   {
     "appid": 4059940,
     "name": "Erebound"
+  },
+  {
+    "appid": 4059950,
+    "name": "Hentai Furry Milf"
   },
   {
     "appid": 4059970,
@@ -1085690,6 +1085754,10 @@
   {
     "appid": 4063260,
     "name": "3000m to Whatever’s Up There Demo"
+  },
+  {
+    "appid": 4063270,
+    "name": "SCP: Fractured Reality"
   },
   {
     "appid": 4063300,
@@ -1087124,6 +1087192,10 @@
     "name": "Monsters Hate Only the Princess"
   },
   {
+    "appid": 4071090,
+    "name": "Tiny Town Market Simulator"
+  },
+  {
     "appid": 4071100,
     "name": "早苗の信仰王への道"
   },
@@ -1087716,6 +1087788,10 @@
     "name": "Hover Point"
   },
   {
+    "appid": 4074790,
+    "name": "the Coda"
+  },
+  {
     "appid": 4074880,
     "name": "Pixel Survivors : Defense Demo"
   },
@@ -1087852,6 +1087928,10 @@
     "name": "Evac Bay 09 Demo"
   },
   {
+    "appid": 4075520,
+    "name": "SixteenPetals Soundtrack"
+  },
+  {
     "appid": 4075540,
     "name": "Castle Come Playtest"
   },
@@ -1087914,6 +1087994,10 @@
   {
     "appid": 4075910,
     "name": "WooLoop - Steampunk Pack"
+  },
+  {
+    "appid": 4075920,
+    "name": "灰烬之国 Cinderia Playtest"
   },
   {
     "appid": 4075990,
@@ -1088198,6 +1088282,10 @@
   {
     "appid": 4077950,
     "name": "Degeons Project Demo"
+  },
+  {
+    "appid": 4078030,
+    "name": "EVERY MORNING MY ALARM CLOCK KILLS ME"
   },
   {
     "appid": 4078050,
@@ -1088634,6 +1088722,10 @@
   {
     "appid": 4081440,
     "name": "Mistress Of The Tower Demo"
+  },
+  {
+    "appid": 4081470,
+    "name": "DigSite Demo"
   },
   {
     "appid": 4081480,
@@ -1089192,6 +1089284,10 @@
     "name": "A Slice of Lunch Demo"
   },
   {
+    "appid": 4086110,
+    "name": "Holyland: Deckbuilding Adventure Demo"
+  },
+  {
     "appid": 4086130,
     "name": "Poem for the Caged Demo"
   },
@@ -1089206,6 +1089302,14 @@
   {
     "appid": 4086260,
     "name": "Guess The Password"
+  },
+  {
+    "appid": 4086280,
+    "name": "Witchy Tower"
+  },
+  {
+    "appid": 4086320,
+    "name": "Vape Simulator"
   },
   {
     "appid": 4086470,
@@ -1089242,6 +1089346,10 @@
   {
     "appid": 4086710,
     "name": "Illumination of Mansion Demo"
+  },
+  {
+    "appid": 4086740,
+    "name": "Hentai Succubus"
   },
   {
     "appid": 4086770,
@@ -1089306,6 +1089414,10 @@
   {
     "appid": 4087230,
     "name": "Wanted Shadows: Unchained Demo"
+  },
+  {
+    "appid": 4087250,
+    "name": "OOPS! Simulator"
   },
   {
     "appid": 4087280,
@@ -1089436,6 +1089548,10 @@
     "name": "StoryFlow Editor"
   },
   {
+    "appid": 4088400,
+    "name": "Hello my World! Lily."
+  },
+  {
     "appid": 4088420,
     "name": "Sepan and the Seven Flasks Demo"
   },
@@ -1089466,6 +1089582,10 @@
   {
     "appid": 4088710,
     "name": "Egg Drop Soup Playtest"
+  },
+  {
+    "appid": 4088740,
+    "name": "Project Timbre"
   },
   {
     "appid": 4088790,
@@ -1089500,12 +1089620,20 @@
     "name": "Cactus Clicker Demo"
   },
   {
+    "appid": 4089060,
+    "name": "Nereus"
+  },
+  {
     "appid": 4089100,
     "name": "Astrolite Demo"
   },
   {
     "appid": 4089130,
     "name": "An Abyss of Dreams | Dans l'abîme du rêve Demo"
+  },
+  {
+    "appid": 4089240,
+    "name": "Heart of Pacific Demo"
   },
   {
     "appid": 4089270,
@@ -1089638,6 +1089766,10 @@
   {
     "appid": 4090630,
     "name": "Epic Survivors Demo"
+  },
+  {
+    "appid": 4090640,
+    "name": "Sex Game - Threesome - Episode 6"
   },
   {
     "appid": 4090680,
@@ -1089850,6 +1089982,10 @@
   {
     "appid": 4092210,
     "name": "Guild & Gals - Community Appreciation Pack"
+  },
+  {
+    "appid": 4092260,
+    "name": "BANE-FALL Demo"
   },
   {
     "appid": 4092320,
@@ -1090400,6 +1090536,10 @@
     "name": "Outpost Odyssey"
   },
   {
+    "appid": 4098350,
+    "name": "Bound City Demo"
+  },
+  {
     "appid": 4098390,
     "name": "Slay The King Demo"
   },
@@ -1090476,6 +1090616,10 @@
     "name": "Untitled Car Game Demo"
   },
   {
+    "appid": 4099290,
+    "name": "Manic Meeples Demo"
+  },
+  {
     "appid": 4099300,
     "name": "Runic Tower Demo"
   },
@@ -1090494,6 +1090638,10 @@
   {
     "appid": 4099470,
     "name": "Nightfall Café Demo"
+  },
+  {
+    "appid": 4099730,
+    "name": "Setuna:Legend of Hamburger 2 Demo"
   },
   {
     "appid": 4099850,
@@ -1090536,6 +1090684,10 @@
     "name": "Rng Arena Demo"
   },
   {
+    "appid": 4100220,
+    "name": "Pilgrim of Darkness Demo"
+  },
+  {
     "appid": 4100320,
     "name": "Parkour Simulator"
   },
@@ -1090544,8 +1090696,16 @@
     "name": "Galactic Gardener"
   },
   {
+    "appid": 4100340,
+    "name": "Futa Oasis 💧"
+  },
+  {
     "appid": 4100390,
     "name": "Pakku Pony"
+  },
+  {
+    "appid": 4100810,
+    "name": "8AM: The Shopping Mall"
   },
   {
     "appid": 4100890,
@@ -1090554,6 +1090714,10 @@
   {
     "appid": 4100970,
     "name": "Kinetic Neo Ornate Bout Demo"
+  },
+  {
+    "appid": 4101090,
+    "name": "Wildwood: Graveyard Defense Demo"
   },
   {
     "appid": 4101220,
@@ -1090660,6 +1090824,10 @@
     "name": "SCHOLA SPIRITUS"
   },
   {
+    "appid": 4103170,
+    "name": "My Giant Sexy Sensei Bullies Me 8"
+  },
+  {
     "appid": 4103500,
     "name": "Football Club Inside"
   },
@@ -1090724,6 +1090892,10 @@
     "name": "贝如塔按摩店 Beta Shop"
   },
   {
+    "appid": 4105400,
+    "name": "TetrEscape Playtest"
+  },
+  {
     "appid": 4105470,
     "name": "We Are Gum"
   },
@@ -1090738,6 +1090910,10 @@
   {
     "appid": 4105600,
     "name": "HAFO: Horse Around, Find Out"
+  },
+  {
+    "appid": 4105640,
+    "name": "Women Rule! A Reverse World Romance"
   },
   {
     "appid": 4105760,
@@ -1090756,8 +1090932,16 @@
     "name": "AI Snake - Gorgeous Maps"
   },
   {
+    "appid": 4106030,
+    "name": "異世界港V Demo"
+  },
+  {
     "appid": 4106180,
     "name": "Open or Die"
+  },
+  {
+    "appid": 4106220,
+    "name": "Quiet in the Library"
   },
   {
     "appid": 4106390,
@@ -1090768,12 +1090952,20 @@
     "name": "The Final Flame Demo"
   },
   {
+    "appid": 4106450,
+    "name": "LotS"
+  },
+  {
     "appid": 4106460,
     "name": "Wicked Cabins Demo"
   },
   {
     "appid": 4106480,
     "name": "Angel's Dreams Demo"
+  },
+  {
+    "appid": 4106520,
+    "name": "SEARCH ALL - BONES"
   },
   {
     "appid": 4107470,
@@ -1090792,8 +1090984,28 @@
     "name": "Sophie: The Girl From The Zone - Progression Assistant"
   },
   {
+    "appid": 4108170,
+    "name": "Medieval Fury"
+  },
+  {
+    "appid": 4108520,
+    "name": "Typing Ascension Playtest"
+  },
+  {
     "appid": 4108540,
     "name": "Demon Stick"
+  },
+  {
+    "appid": 4108720,
+    "name": "Vultures Demo"
+  },
+  {
+    "appid": 4108780,
+    "name": "The Da Vinci Cryptex 4"
+  },
+  {
+    "appid": 4109010,
+    "name": "Rage Flick"
   },
   {
     "appid": 4109280,
@@ -1090802,6 +1091014,10 @@
   {
     "appid": 4109470,
     "name": "Love Me Playtest"
+  },
+  {
+    "appid": 4109600,
+    "name": "Requisition VR: Hunt & Extract"
   },
   {
     "appid": 4109620,
@@ -1090814,5 +1091030,9 @@
   {
     "appid": 4110070,
     "name": "MALCADE Demo"
+  },
+  {
+    "appid": 4110160,
+    "name": "Haunt Hunter Demo"
   }
 ]
