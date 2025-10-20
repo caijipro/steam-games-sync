@@ -661148,6 +661148,10 @@
     "name": "Incubus Quest"
   },
   {
+    "appid": 2429900,
+    "name": "On The Wind's Breath Soundtrack"
+  },
+  {
     "appid": 2429910,
     "name": "On The Wind's Breath Playtest"
   },
@@ -737557,7 +737561,7 @@
   },
   {
     "appid": 2710440,
-    "name": "MAX CineGuru MAX"
+    "name": "CineGuru MAX"
   },
   {
     "appid": 2710450,
@@ -972288,6 +972292,10 @@
     "name": "ヒロイックソングス！リプロデュース"
   },
   {
+    "appid": 3589000,
+    "name": "Children of Birch"
+  },
+  {
     "appid": 3589010,
     "name": "B.A.N.K."
   },
@@ -1003344,6 +1003352,10 @@
     "name": "Boogie Cruise"
   },
   {
+    "appid": 3709610,
+    "name": "Fight'N'Jokes: Storylines Demo"
+  },
+  {
     "appid": 3709620,
     "name": "Idle Tree Keeper"
   },
@@ -1019430,6 +1019442,10 @@
   {
     "appid": 3771610,
     "name": "Flee the fallen"
+  },
+  {
+    "appid": 3771620,
+    "name": "PeopleBOX"
   },
   {
     "appid": 3771640,
@@ -1046668,6 +1046684,10 @@
     "name": "Auto Jurassic Knights"
   },
   {
+    "appid": 3882690,
+    "name": "GunJong"
+  },
+  {
     "appid": 3882700,
     "name": "HattenX (Private Version) Playtest"
   },
@@ -1050542,6 +1050562,14 @@
   {
     "appid": 3899160,
     "name": "G-MODEアーカイブス+ ステラデウス 漆黒の精霊"
+  },
+  {
+    "appid": 3899180,
+    "name": "Project X"
+  },
+  {
+    "appid": 3899210,
+    "name": "Project X Demo"
   },
   {
     "appid": 3899230,
@@ -1058674,6 +1058702,14 @@
   {
     "appid": 3934110,
     "name": "Car Race Simulator"
+  },
+  {
+    "appid": 3934130,
+    "name": "100 Dubai Cats Soundtrack"
+  },
+  {
+    "appid": 3934140,
+    "name": "100 Dubai Cats  - Artbook"
   },
   {
     "appid": 3934150,
@@ -1068784,6 +1068820,10 @@
     "name": "Chrono Lock"
   },
   {
+    "appid": 3979040,
+    "name": "Perfect Date - HD -"
+  },
+  {
     "appid": 3979050,
     "name": "Carnaval Marbles Playtest"
   },
@@ -1069038,6 +1069078,10 @@
   {
     "appid": 3980270,
     "name": "Gallery Collector"
+  },
+  {
+    "appid": 3980280,
+    "name": "SempRecord"
   },
   {
     "appid": 3980290,
@@ -1071166,6 +1071210,10 @@
   {
     "appid": 3989830,
     "name": "Barfbot Playtest"
+  },
+  {
+    "appid": 3989840,
+    "name": "万户天工 Playtest"
   },
   {
     "appid": 3989860,
@@ -1074168,6 +1074216,10 @@
     "name": "Steal Deal Demo"
   },
   {
+    "appid": 4003770,
+    "name": "ホロライブファンタジーバトル"
+  },
+  {
     "appid": 4003780,
     "name": "Idosra: The Electric Renaissance Demo"
   },
@@ -1076720,6 +1076772,10 @@
     "name": "Deadline Escape Demo"
   },
   {
+    "appid": 4017110,
+    "name": "The Vanishing Train | ワンマン列車 Demo"
+  },
+  {
     "appid": 4017120,
     "name": "Drunkard Simulator Demo"
   },
@@ -1077560,6 +1077616,10 @@
     "name": "Night of the Oldbrand"
   },
   {
+    "appid": 4021030,
+    "name": "SoundWarZ Playtest"
+  },
+  {
     "appid": 4021040,
     "name": "Ramshackle Dedicated Server"
   },
@@ -1077670,6 +1077730,10 @@
   {
     "appid": 4021860,
     "name": "Final Sentence Demo"
+  },
+  {
+    "appid": 4021870,
+    "name": "聊斋：画皮鬼"
   },
   {
     "appid": 4021920,
@@ -1084248,6 +1084312,10 @@
     "name": "Lone Bastion Playtest"
   },
   {
+    "appid": 4055290,
+    "name": "Culinary Wizard - Wild Taste Wardrobe Expansion"
+  },
+  {
     "appid": 4055310,
     "name": "Sapia Demo"
   },
@@ -1084694,6 +1084762,10 @@
   {
     "appid": 4057780,
     "name": "Outlive 25 Demo"
+  },
+  {
+    "appid": 4057800,
+    "name": "CliveWareGOLD Playtest"
   },
   {
     "appid": 4057810,
@@ -1086694,6 +1086766,10 @@
   {
     "appid": 4068480,
     "name": "Cascadou Playtest"
+  },
+  {
+    "appid": 4068490,
+    "name": "Culinary Wizard - Seasonal Selection Wardrobe Expansion"
   },
   {
     "appid": 4068500,
@@ -1088740,6 +1088816,10 @@
     "name": "Vaulted Valor Demo"
   },
   {
+    "appid": 4081580,
+    "name": "Moulder Demo"
+  },
+  {
     "appid": 4081650,
     "name": "Mate'Morphosis Demo"
   },
@@ -1089244,6 +1089324,10 @@
     "name": "Curse of the Dragonbeast"
   },
   {
+    "appid": 4085820,
+    "name": "Crucible of the Forgotten Playtest"
+  },
+  {
     "appid": 4085860,
     "name": "Recurrence Demo"
   },
@@ -1089420,6 +1089504,10 @@
     "name": "OOPS! Simulator"
   },
   {
+    "appid": 4087260,
+    "name": "Spin Blade Shop Simulator Playtest"
+  },
+  {
     "appid": 4087280,
     "name": "Campsite Hustle Demo"
   },
@@ -1089500,6 +1089588,10 @@
     "name": "Fickle Card Legend"
   },
   {
+    "appid": 4088010,
+    "name": "RACETAR Playtest"
+  },
+  {
     "appid": 4088040,
     "name": "Pizza Restaurant Together Demo"
   },
@@ -1089572,6 +1089664,10 @@
     "name": "Craft. Sell. Goblin. Repeat. Playtest"
   },
   {
+    "appid": 4088620,
+    "name": "Signs and Seasons"
+  },
+  {
     "appid": 4088630,
     "name": "Atrium Mortis Demo"
   },
@@ -1089582,6 +1089678,10 @@
   {
     "appid": 4088710,
     "name": "Egg Drop Soup Playtest"
+  },
+  {
+    "appid": 4088720,
+    "name": "Waifu Pogo Club"
   },
   {
     "appid": 4088740,
@@ -1090176,6 +1090276,10 @@
     "name": "Jeger Playtest"
   },
   {
+    "appid": 4094070,
+    "name": "Escobar Simulator"
+  },
+  {
     "appid": 4094100,
     "name": "Murder Mystery Stories Demo"
   },
@@ -1090246,6 +1090350,10 @@
   {
     "appid": 4094900,
     "name": "Island Beekeeper Demo"
+  },
+  {
+    "appid": 4094920,
+    "name": "Internal Incident Demo"
   },
   {
     "appid": 4094930,
@@ -1090836,12 +1090944,20 @@
     "name": "Foes of Legacy: Survivors Demo"
   },
   {
+    "appid": 4103740,
+    "name": "Living Dead House Playtest"
+  },
+  {
     "appid": 4103760,
     "name": "Pixel Shinobi Demo"
   },
   {
     "appid": 4103940,
     "name": "HOLFACE"
+  },
+  {
+    "appid": 4104020,
+    "name": "After Dark"
   },
   {
     "appid": 4104040,
@@ -1090914,6 +1091030,14 @@
   {
     "appid": 4105640,
     "name": "Women Rule! A Reverse World Romance"
+  },
+  {
+    "appid": 4105710,
+    "name": "Alien Attorney Adventure Playtest"
+  },
+  {
+    "appid": 4105730,
+    "name": "Floor13"
   },
   {
     "appid": 4105760,
@@ -1091004,6 +1091128,10 @@
     "name": "The Da Vinci Cryptex 4"
   },
   {
+    "appid": 4108940,
+    "name": "Vitavania"
+  },
+  {
     "appid": 4109010,
     "name": "Rage Flick"
   },
@@ -1091026,6 +1091154,10 @@
   {
     "appid": 4109900,
     "name": "hongshui river"
+  },
+  {
+    "appid": 4110040,
+    "name": "Explosive Odds - Spooky Pack"
   },
   {
     "appid": 4110070,
